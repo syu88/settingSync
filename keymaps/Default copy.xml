@@ -2,8 +2,5 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
-  <action id="FindInPath">
-    <keyboard-shortcut first-keystroke="alt f" />
-  </action>
   <action id="HippieCompletion" />
 </keymap>
