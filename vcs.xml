@@ -18,6 +18,10 @@
           <option name="url" value="http://10.237.50.100" />
           <option name="userName" value="liusiyu" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://81.70.31.199/likai/aia_gl" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\JavaFiles" />
