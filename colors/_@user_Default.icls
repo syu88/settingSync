@@ -1,27 +1,14 @@
 <scheme name="_@user_Default" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-07-22T15:11:05</property>
+    <property name="created">2020-11-22T17:26:38</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2017.2.3.0.0</property>
-    <property name="modified">2020-11-16T15:05:23</property>
+    <property name="ideVersion">2020.2.2.0.0</property>
+    <property name="modified">2020-11-22T17:28:37</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="15" />
-  <option name="EDITOR_FONT_NAME" value="Courier New" />
   <attributes>
-    <option name="DEFAULT_BLOCK_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="328080" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="DEFAULT_LINE_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="328080" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
+    <option name="TEXT">
+      <value />
     </option>
   </attributes>
 </scheme>
