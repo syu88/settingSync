@@ -50,6 +50,38 @@
           <option name="url" value="http://192.168.240.222/gmyl/microservices.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.240.222/gmyl/service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@192.168.240.222:gmyl/service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@124.204.68.210:gmyl/service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@124.204.68.210:gmyl/microservices.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@124.204.68.210:13064/gmyl/microservices.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://124.204.68.210:13064/gmyl/microservices.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://124.204.68.210:13064" />
+          <option name="userName" value="liusiyu" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://124.204.68.210:13064/gmyl/service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\gmyl" />
