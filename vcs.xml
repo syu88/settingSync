@@ -36,7 +36,7 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://gitlab.oldmutual-chnenergy.com" />
-          <option name="userName" value="tanghao" />
+          <option name="userName" value="liusiyu" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://gitlab.oldmutual-chnenergy.com/poc/lis.git" />
@@ -93,7 +93,6 @@
         <option value="Default.Subject" />
         <option value="Default.Author" />
         <option value="Default.Date" />
-        <option value="Space.CommitStatus" />
       </list>
     </option>
   </component>
