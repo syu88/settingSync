@@ -1,15 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="obile devices) among other things. To link an external stylesheet, you'd include a &lt;link&gt; element inside your &lt;head&gt; like this: &lt;link href=&quot;main.css&quot; rel=&quot;stylesheet&quot;&gt; This simple example provides the path to the stylesheet inside an href attribute, and a rel attribute with a value of stylesheet. The rel stands for &quot;relationship&quot;, and is probably one of the key features of the &lt;link&gt; element — the value denotes how the item being linked to is related to the containing document. As you'll see from our Link types reference, there are many different kinds of relationship. There are a number of other common types you'll come across. For example, a link to the site's favicon: &lt;link rel=&quot;icon&quot; href=&quot;favicon.ico&quot;&gt; There are a number of other icon rel values, mainly used to indicate special icon types for use on various mobile platforms, e.g.: &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;114x114&quot; href=&quot;apple-icon-114.png&quot; type=&quot;imagepng&quot;&gt;" />
       <item value="valperiod" />
     </histories>
     <option name="languageScores">
       <map>
+        <entry key="CHINESE" value="1" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1615882664008" />
+    <option name="lastTrimTime" value="1643204270605" />
   </component>
 </application>
