@@ -82,6 +82,10 @@
           <option name="url" value="http://124.204.68.210:13064/gmyl/service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://124.204.68.210:31228" />
+          <option name="userName" value="tanghao" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\gmyl" />
