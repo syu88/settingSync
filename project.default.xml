@@ -1,48 +1,20 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="InspectionProjectProfileManager">
-        <option name="PROJECT_PROFILE" />
-        <version value="1.0" />
+      <component name="AutoImportSettings">
+        <option name="autoReloadType" value="SELECTIVE" />
       </component>
       <component name="MavenImportPreferences">
         <option name="generalSettings">
           <MavenGeneralSettings>
-            <option name="localRepository" value="D:\JavaFiles\Jar" />
-            <option name="mavenHome" value="D:\JavaFiles\IntelliJ IDEA 2020.2.2\plugins\maven\lib\maven3" />
-            <option name="userSettingsFile" value="D:\JavaFiles\Apache\apache-maven-3.5.2\conf\settings.xml" />
+            <option name="localRepository" value="E:\Jar" />
+            <option name="mavenHome" value="E:/Apache/apache-maven-3.5.2" />
+            <option name="userSettingsFile" value="E:\Apache\apache-maven-3.5.2\conf\settings.xml" />
           </MavenGeneralSettings>
         </option>
       </component>
-      <component name="MavenRunner">
-        <option name="jreName" value="1.8" />
-        <option name="vmOptions" value="-DarchetypeCatalog=internal" />
-      </component>
-      <component name="ProjectViewState">
-        <option name="showLibraryContents" value="true" />
-      </component>
       <component name="PropertiesComponent">
-        <property name="last_opened_file_path" value="D:/" />
         <property name="settings.editor.selected.configurable" value="MavenSettings" />
-      </component>
-      <component name="SvnConfiguration">
-        <configuration>C:\Users\86153\AppData\Roaming\Subversion</configuration>
-      </component>
-      <component name="masterDetails">
-        <states>
-          <state key="ProjectJDKs.UI">
-            <settings>
-              <last-edited>1.8</last-edited>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-        </states>
       </component>
     </defaultProject>
   </component>
