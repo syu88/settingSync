@@ -11,7 +11,7 @@
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.sql</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
