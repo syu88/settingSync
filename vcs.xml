@@ -13,6 +13,10 @@
           <option name="url" value="http://10.237.50.100" />
           <option name="userName" value="tanghao" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.panda-assets.com" />
+          <option name="userName" value="tanghao" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
