@@ -2,7 +2,9 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
     <option name="showResultsInSeparateView" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
@@ -10,8 +12,8 @@
     <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.jsp</mask>
-    <mask>*.sql</mask>
     <mask>*.properties</mask>
+    <mask>*.sql</mask>
     <mask>*.java</mask>
   </component>
 </application>
