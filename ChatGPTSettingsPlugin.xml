@@ -1,0 +1,5 @@
+<application>
+  <component name="com.obiscr.chatgpt.settings.SettingsState">
+    <option name="urlType" value="OFFICIAL" />
+  </component>
+</application>
