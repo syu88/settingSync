@@ -4,7 +4,7 @@
       <list>
         <SonarQubeServer>
           <option name="hostUrl" value="https://devops.panda-assets.com/sonar" />
-          <token>df9bdf99df9cdfcfdf9cdf93dfccdf9fdf92df98dfcfdf9fdf9cdfcfdfc9df9fdf9cdfc9dfcedf99df9adfccdfccdfc9dfcfdf92dfccdf9cdfcbdf9adf9ddf9bdfccdf99dfc9dfc8dfc8dfcfdf99df9e</token>
+          <token>df9ddf98df9edf9edf99df9edfcedfcfdfccdfc8df9ddf98df98dfccdfcfdf9cdf9edfccdfcbdfccdf9adf92df9ddfc8dfc8df92df9fdf98df99dfcfdfc9dfccdfcedfc9dfcedf9adf98df92dfccdf98</token>
           <option name="name" value="gbl-dev" />
         </SonarQubeServer>
       </list>
