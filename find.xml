@@ -3,9 +3,10 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.sql" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>.java</mask>
     <mask>*.java</mask>
     <mask>*.sql</mask>
+    <mask>*.js</mask>
   </component>
 </application>
