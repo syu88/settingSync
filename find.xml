@@ -4,7 +4,10 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>.java</mask>
+    <mask>*.pr</mask>
+    <mask>*.js</mask>
     <mask>*.java</mask>
+    <mask>*</mask>
     <mask>*.sql</mask>
   </component>
 </application>
