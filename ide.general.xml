@@ -11,6 +11,7 @@
       <map>
         <entry key="CwmWireStatsWidgetFactory" value="false" />
         <entry key="Encoding" value="false" />
+        <entry key="Position" value="false" />
       </map>
     </option>
   </component>
