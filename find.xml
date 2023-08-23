@@ -7,9 +7,9 @@
     <mask>.java</mask>
     <mask>*.pr</mask>
     <mask>*</mask>
-    <mask>*.java</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
+    <mask>*.java</mask>
     <mask>*.sql</mask>
   </component>
 </application>
