@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="with root cause" />
       <item value="Returns an Optional describing the first element of this stream, or an empty Optional if the stream is empty. If the stream has no encounter order, then any element may be returned" />
       <item value="Replaces each element of this list with the result of applying the operator to that element. Errors or runtime exceptions thrown by the operator are relayed to the caller. Params: operator – the operator to apply to each element Throws: UnsupportedOperationException – if this list is unmodifiable. Implementations may throw this exception if an element cannot be replaced or if, in general, modification is not supported NullPointerException – if the specified operator is null or if the operator result is a null value and this list does not permit null elements (optional)" />
       <item value="alert" />
