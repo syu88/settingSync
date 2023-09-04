@@ -8,8 +8,8 @@
     <mask>*.pr</mask>
     <mask>*</mask>
     <mask>*.sql</mask>
-    <mask>*.js</mask>
     <mask>*.jsp</mask>
+    <mask>*.js</mask>
     <mask>*.java</mask>
   </component>
 </application>
