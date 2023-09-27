@@ -6,4 +6,12 @@
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
   <action id="HippieCompletion" />
+  <action id="cn.wind.action.NextAction">
+    <keyboard-shortcut first-keystroke="ctrl alt 3" />
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="cn.wind.action.PrevAction">
+    <keyboard-shortcut first-keystroke="ctrl alt 2" />
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
 </keymap>
