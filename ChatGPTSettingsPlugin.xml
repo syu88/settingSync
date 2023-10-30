@@ -1,4 +1,31 @@
 <application>
+  <component name="com.obiscr.chatgpt.settings.OpenAISettingsState">
+    <contentStatesAll>
+      <list>
+        <ChatGPTContentState>
+          <enable>true</enable>
+          <content>EasyCode</content>
+        </ChatGPTContentState>
+        <ChatGPTContentState>
+          <order>1</order>
+          <enable>true</enable>
+          <content>ChatGPT</content>
+        </ChatGPTContentState>
+        <ChatGPTContentState>
+          <order>2</order>
+          <enable>true</enable>
+          <content>GPT-3.5-Turbo</content>
+        </ChatGPTContentState>
+        <ChatGPTContentState>
+          <order>3</order>
+          <enable>true</enable>
+          <content>Online ChatGPT</content>
+        </ChatGPTContentState>
+      </list>
+    </contentStatesAll>
+    <option name="easyCodeAccessToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjk4NjQ1MTQzLCJpYXQiOjE2OTg2NDQyNDMsImp0aSI6IjI2NTRiNTIwNDhlMzRkODk4NjE5YjAxZGYyNTI3OTZkIiwidXNlcl9pZCI6NDQ3MDQzfQ.vhvrXY1SUFPAUEtFGSI-CIPktl6bfA5dps2xZUr9BDY" />
+    <option name="easyCodeRefreshToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY5OTg1Mzg0MywiaWF0IjoxNjk4NjQ0MjQzLCJqdGkiOiIwN2I3MmRiYjg5NGI0MmI2OWQ4MzYzNGFkNjg2ZDE5ZiIsInVzZXJfaWQiOjQ0NzA0M30.6JmCYg0l53N6T0j5sFKAzSbCVRtAld_pR_TLLtA2GnY" />
+  </component>
   <component name="com.obiscr.chatgpt.settings.SettingsState">
     <option name="urlType" value="OFFICIAL" />
   </component>
