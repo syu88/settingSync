@@ -1,5 +1,7 @@
 <application>
   <component name="TipsStore">
+    <entry projectPath="$USER_HOME$/Desktop/datainput" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Desktop/报表系统数据导入" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/JavaFiles/IDEAPrograms/StudySpace/Demo1" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/JavaFiles/IDEAPrograms/WorkSpace/TLprojects/allinpay-hlb" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/JavaFiles/IDEAPrograms/WorkSpace/TLprojects/business" startUpFlag="FIRST" />
