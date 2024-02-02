@@ -3,14 +3,14 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.sql" />
+    <option name="FILE_MASK" value="*.properties" />
     <mask>.java</mask>
     <mask>*.pr</mask>
     <mask>*</mask>
     <mask>*.js</mask>
-    <mask>*.java</mask>
     <mask>*.jsp</mask>
-    <mask>*.properties</mask>
+    <mask>*.java</mask>
     <mask>*.sql</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
