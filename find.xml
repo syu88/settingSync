@@ -6,11 +6,11 @@
     <option name="FILE_MASK" value="*.sql" />
     <mask>.java</mask>
     <mask>*.pr</mask>
-    <mask>*.jsp</mask>
-    <mask>*</mask>
     <mask>*.js</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
+    <mask>*</mask>
+    <mask>*.jsp</mask>
     <mask>*.sql</mask>
   </component>
 </application>
