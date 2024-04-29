@@ -7,10 +7,10 @@
     <mask>.java</mask>
     <mask>*.pr</mask>
     <mask>*</mask>
-    <mask>*.js</mask>
     <mask>*.properties</mask>
     <mask>*.sql</mask>
     <mask>*.jsp</mask>
+    <mask>*.js</mask>
     <mask>*.java</mask>
   </component>
 </application>
