@@ -5,11 +5,11 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>.java</mask>
     <mask>*.pr</mask>
-    <mask>*.properties</mask>
     <mask>*.sql</mask>
     <mask>*</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
+    <mask>*.properties</mask>
     <mask>*.java</mask>
   </component>
 </application>
