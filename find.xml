@@ -9,8 +9,8 @@
     <mask>*</mask>
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
-    <mask>*.js</mask>
     <mask>*.sql</mask>
+    <mask>*.js</mask>
     <mask>*.java</mask>
   </component>
 </application>
