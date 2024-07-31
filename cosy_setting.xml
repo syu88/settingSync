@@ -46,6 +46,7 @@
               <option value="MultipartFile转二进制内容" />
               <option value="流式处理方法将MultipartFile转为二进制内容" />
               <option value="/explain code" />
+              <option value="bytes数组转二进制bytes" />
             </list>
           </value>
         </entry>
