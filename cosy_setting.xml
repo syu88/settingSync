@@ -47,6 +47,7 @@
               <option value="流式处理方法将MultipartFile转为二进制内容" />
               <option value="/explain code" />
               <option value="bytes数组转二进制bytes" />
+              <option value="java将MultipartFile转换为文件二进制流" />
             </list>
           </value>
         </entry>
