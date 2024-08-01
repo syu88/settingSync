@@ -48,6 +48,15 @@
               <option value="/explain code" />
               <option value="bytes数组转二进制bytes" />
               <option value="java将MultipartFile转换为文件二进制流" />
+              <option value="FFFFFF89504E470D0A1A0A0000000D4948445200000548000001540806000000FFFFFFF6FFFFFFD9FFFFFFD65100000AFFFFFFAA694343504943432050726F66696C65000048FFFFFF89FFFFFF95FFFFFF97075053FFFFFFE916FFFFFF80FFFFFFFF7BFFFFFFD343424BFFFFFF8874420D45FFFFFF904E002921FFFFFFB45004FFFFFFE9602324014209311004FFFFFFECFFFFFFCAFFFFFFE20AFFFFFFAE28222260015D01517055FFFFFF8AFFFFFFD810516" />
+              <option value="把下面这段c++代码转为java" />
+              <option value="std::ifstream file(sFileName, std::ios::binary);&#10;std::string sFileContent((std::istreambuf_iterator&lt;char&gt;(file)), std::istreambuf_iterator&lt;char&gt;());" />
+              <option value="图片二进制数据示例" />
+              <option value="java图片二进制数据示例" />
+              <option value="java图片文件转为二进制bytes数组" />
+              <option value="java图片MultipartFile文件转为二进制bytes数组" />
+              <option value="微信接口：https://api.weixin.qq.com/retail/B2b/retailuploadmchfile?access_token=ACCESS_TOKEN 怎么接入" />
+              <option value="bytes类型的文件二进制流怎么生产" />
             </list>
           </value>
         </entry>
