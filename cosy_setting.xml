@@ -58,6 +58,7 @@
               <option value="微信接口：https://api.weixin.qq.com/retail/B2b/retailuploadmchfile?access_token=ACCESS_TOKEN 怎么接入" />
               <option value="bytes类型的文件二进制流怎么生产" />
               <option value="/explain code" />
+              <option value=".bin文件怎么解析为json字符串" />
             </list>
           </value>
         </entry>
