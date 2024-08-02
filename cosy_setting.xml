@@ -60,6 +60,7 @@
               <option value="/explain code" />
               <option value=".bin文件怎么解析为json字符串" />
               <option value="base64解码" />
+              <option value="帮我转成java类，{&#10;            &quot;mobile_phone&quot;: &quot;12345678910&quot;,&#10;            &quot;retail_name&quot;: &quot;张三烧烤店&quot;,&#10;            &quot;retail_type&quot;: &quot;餐饮店&quot;,&#10;            &quot;address_province&quot;: &quot;广东省&quot;,&#10;            &quot;address_city&quot;: &quot;广州市&quot;,&#10;            &quot;address_region&quot;: &quot;海珠区&quot;,&#10;            &quot;address_street&quot;: &quot;新港中路397号TIT创意园&quot;,&#10;            &quot;longitude&quot;: 113.32531,&#10;            &quot;latitude&quot;: 23.0996132&#10;        }" />
             </list>
           </value>
         </entry>
