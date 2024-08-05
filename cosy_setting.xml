@@ -42,10 +42,6 @@
         <entry key="tsy|1541494969064604">
           <value>
             <list>
-              <option value="/explain code" />
-              <option value="MultipartFile转二进制内容" />
-              <option value="流式处理方法将MultipartFile转为二进制内容" />
-              <option value="/explain code" />
               <option value="bytes数组转二进制bytes" />
               <option value="java将MultipartFile转换为文件二进制流" />
               <option value="FFFFFF89504E470D0A1A0A0000000D4948445200000548000001540806000000FFFFFFF6FFFFFFD9FFFFFFD65100000AFFFFFFAA694343504943432050726F66696C65000048FFFFFF89FFFFFF95FFFFFF97075053FFFFFFE916FFFFFF80FFFFFFFF7BFFFFFFD343424BFFFFFF8874420D45FFFFFF904E002921FFFFFFB45004FFFFFFE9602324014209311004FFFFFFECFFFFFFCAFFFFFFE20AFFFFFFAE28222260015D01517055FFFFFF8AFFFFFFD810516" />
@@ -62,6 +58,10 @@
               <option value="base64解码" />
               <option value="帮我转成java类，{&#10;            &quot;mobile_phone&quot;: &quot;12345678910&quot;,&#10;            &quot;retail_name&quot;: &quot;张三烧烤店&quot;,&#10;            &quot;retail_type&quot;: &quot;餐饮店&quot;,&#10;            &quot;address_province&quot;: &quot;广东省&quot;,&#10;            &quot;address_city&quot;: &quot;广州市&quot;,&#10;            &quot;address_region&quot;: &quot;海珠区&quot;,&#10;            &quot;address_street&quot;: &quot;新港中路397号TIT创意园&quot;,&#10;            &quot;longitude&quot;: 113.32531,&#10;            &quot;latitude&quot;: 23.0996132&#10;        }" />
               <option value="jsonarray转对象数组" />
+              <option value="省市编码表" />
+              <option value="完整的中国省市编码" />
+              <option value="成都市省市编码" />
+              <option value="我需要全部省市的编码，但是不需要精确到区，一个城市就一个编码就行" />
             </list>
           </value>
         </entry>
