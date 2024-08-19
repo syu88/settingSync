@@ -42,6 +42,8 @@
               <option value="java.security.spec.InvalidKeySpecException: java.security.InvalidKeyException: IOException : DER input, Integer tag error&#10;&#9;at sun.security.rsa.RSAKeyFactory.engineGeneratePrivate(RSAKeyFactory.java:217)" />
               <option value="怎么验证" />
               <option value="怎么去除标识符" />
+              <option value="文件正确" />
+              <option value="异常为：java.security.spec.InvalidKeySpecException: java.security.InvalidKeyException: IOException : DER input, Integer tag error" />
             </list>
           </value>
         </entry>
