@@ -46,6 +46,8 @@
               <option value="异常为：java.security.spec.InvalidKeySpecException: java.security.InvalidKeyException: IOException : DER input, Integer tag error" />
               <option value="怎么添加该依赖" />
               <option value="Some problems were encountered while building the effective settings" />
+              <option value="怎么生成pem文件" />
+              <option value="java.security.spec.InvalidKeySpecException: java.security.InvalidKeyException: IOException : algid parse error, not a sequence" />
             </list>
           </value>
         </entry>
