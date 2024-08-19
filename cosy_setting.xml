@@ -48,6 +48,8 @@
               <option value="Some problems were encountered while building the effective settings" />
               <option value="怎么生成pem文件" />
               <option value="java.security.spec.InvalidKeySpecException: java.security.InvalidKeyException: IOException : algid parse error, not a sequence" />
+              <option value="怎么确认安全库是否兼容" />
+              <option value="java.security.spec.InvalidKeySpecException: java.security.InvalidKeyException: IOException : DER input, Integer tag error" />
             </list>
           </value>
         </entry>
