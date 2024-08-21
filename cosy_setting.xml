@@ -60,6 +60,7 @@
           <value>
             <list>
               <option value="引入boucycastle的依赖" />
+              <option value="/generate optimization" />
             </list>
           </value>
         </entry>
@@ -100,5 +101,6 @@
     </option>
     <option name="showInlineAcceptTips" value="false" />
     <option name="showInlineCancelTips" value="false" />
+    <option name="showInlineTriggerTips" value="false" />
   </component>
 </application>
