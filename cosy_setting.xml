@@ -35,7 +35,6 @@
         <entry key="42a1a7124fc9a58c4327b59b249fdce6|1541494969064604">
           <value>
             <list>
-              <option value="/explain code" />
               <option value="Application run failed&#10;org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'httpClient': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'hra.httpurl' in value &quot;${hra.httpurl}&quot;" />
               <option value="{&#10;&#9;&quot;timestamp&quot;: &quot;2024-08-16T06:36:01.161+0000&quot;,&#10;&#9;&quot;status&quot;: 500,&#10;&#9;&quot;error&quot;: &quot;Internal Server Error&quot;,&#10;&#9;&quot;message&quot;: &quot;null object&quot;,&#10;&#9;&quot;path&quot;: &quot;/openapi/v1/bank/account&quot;&#10;}" />
               <option value="yhqzsy.pem" />
@@ -55,6 +54,7 @@
               <option value="两个服务在同一台服务器上，端口不同，怎么ping通" />
               <option value="javax.crypto.BadPaddingException: Decryption error" />
               <option value="javax.crypto.BadPaddingException: Decryption error&#10;&#9;at sun.security.rsa.RSAPadding.unpadV15(RSAPadding.java:380)&#10;&#9;at sun.security.rsa.RSAPadding.unpad(RSAPadding.java:291)&#10;&#9;at com.sun.crypto.provider.RSACipher.doFinal(RSACipher.java:363)&#10;&#9;at com.sun.crypto.provider.RSACipher.engineDoFinal(RSACipher.java:389)&#10;&#9;at javax.crypto.Cipher.doFinal(Cipher.java:2223)&#10;&#9;at com.allinpay.canislupus.openapi.yun.YunEncAndDec.yunDecrypt(YunEncAndDec.java:296)" />
+              <option value="X509EncodedKeySpec加密是否可以用PKCS8EncodedKeySpec解密" />
             </list>
           </value>
         </entry>
