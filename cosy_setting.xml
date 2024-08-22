@@ -54,6 +54,7 @@
               <option value="I/O error on POST request for &quot;https://perbanktest.allinpaysc.com/comm/account/hra/accBalanceQuery&quot;: Connect to perbanktest.allinpaysc.com:443 [perbanktest.allinpaysc.com/117.139.19.4] failed: connect timed out; nested exception is org.apache.http.conn.ConnectTimeoutException: Connect to perbanktest.allinpaysc.com:443 [perbanktest.allinpaysc.com/117.139.19.4] failed: connect timed out" />
               <option value="两个服务在同一台服务器上，端口不同，怎么ping通" />
               <option value="javax.crypto.BadPaddingException: Decryption error" />
+              <option value="javax.crypto.BadPaddingException: Decryption error&#10;&#9;at sun.security.rsa.RSAPadding.unpadV15(RSAPadding.java:380)&#10;&#9;at sun.security.rsa.RSAPadding.unpad(RSAPadding.java:291)&#10;&#9;at com.sun.crypto.provider.RSACipher.doFinal(RSACipher.java:363)&#10;&#9;at com.sun.crypto.provider.RSACipher.engineDoFinal(RSACipher.java:389)&#10;&#9;at javax.crypto.Cipher.doFinal(Cipher.java:2223)&#10;&#9;at com.allinpay.canislupus.openapi.yun.YunEncAndDec.yunDecrypt(YunEncAndDec.java:296)" />
             </list>
           </value>
         </entry>
