@@ -63,6 +63,7 @@
               <option value="/generate optimization" />
               <option value="/explain code" />
               <option value="针对以下终端信息，请解释原因并提供修复意见。" />
+              <option value="linux rm" />
             </list>
           </value>
         </entry>
