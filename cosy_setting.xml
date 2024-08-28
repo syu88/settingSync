@@ -86,8 +86,6 @@
         <entry key="tsy|1541494969064604">
           <value>
             <list>
-              <option value="jsonarray转对象数组" />
-              <option value="省市编码表" />
               <option value="完整的中国省市编码" />
               <option value="成都市省市编码" />
               <option value="我需要全部省市的编码，但是不需要精确到区，一个城市就一个编码就行" />
@@ -106,6 +104,8 @@
               <option value="我想在json字符串转类的时候，用注解匹配字段名" />
               <option value="RequestBody 中对象字段名映射" />
               <option value="检查sql ：&#9;&#9;update hht_notify_deposit set remark = '饿了么外卖' where payer_acct_name like '%拉扎斯%‘" />
+              <option value="AND reconciliation_detail.store_no = #{storeNo}后面可以加00:00:00吗" />
+              <option value="mybatis中AND reconciliation_detail.comission_time = #{time} 后面可以加00:00:00吗" />
             </list>
           </value>
         </entry>
