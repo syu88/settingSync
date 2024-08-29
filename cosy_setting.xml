@@ -35,8 +35,6 @@
         <entry key="42a1a7124fc9a58c4327b59b249fdce6|1541494969064604">
           <value>
             <list>
-              <option value="怎么验证" />
-              <option value="怎么去除标识符" />
               <option value="文件正确" />
               <option value="异常为：java.security.spec.InvalidKeySpecException: java.security.InvalidKeyException: IOException : DER input, Integer tag error" />
               <option value="怎么添加该依赖" />
@@ -55,6 +53,8 @@
               <option value="/generate unit test" />
               <option value="/explain code" />
               <option value="A JSONObject text must begin with '{' at character 0 of" />
+              <option value="/explain code" />
+              <option value="com.sun.crypto.provider.SunJCE&#10;javax.crypto.BadPaddingException: Decryption error&#10;&#9;at sun.security.rsa.RSAPadding.unpadV15(RSAPadding.java:380)&#10;&#9;at sun.security.rsa.RSAPadding.unpad(RSAPadding.java:291)&#10;&#9;at com.sun.crypto.provider.RSACipher.doFinal(RSACipher.java:363)&#10;&#9;at com.sun.crypto.provider.RSACipher.engineDoFinal(RSACipher.java:389)&#10;&#9;at javax.crypto.Cipher.doFinal(Cipher.java:2223)" />
             </list>
           </value>
         </entry>
