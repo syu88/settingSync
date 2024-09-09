@@ -35,13 +35,6 @@
         <entry key="42a1a7124fc9a58c4327b59b249fdce6|1541494969064604">
           <value>
             <list>
-              <option value="/explain code" />
-              <option value="Application run failed&#10;org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'httpClient': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'hra.httpurl' in value &quot;${hra.httpurl}&quot;" />
-              <option value="{&#10;&#9;&quot;timestamp&quot;: &quot;2024-08-16T06:36:01.161+0000&quot;,&#10;&#9;&quot;status&quot;: 500,&#10;&#9;&quot;error&quot;: &quot;Internal Server Error&quot;,&#10;&#9;&quot;message&quot;: &quot;null object&quot;,&#10;&#9;&quot;path&quot;: &quot;/openapi/v1/bank/account&quot;&#10;}" />
-              <option value="yhqzsy.pem" />
-              <option value="java.security.spec.InvalidKeySpecException: java.security.InvalidKeyException: IOException : DER input, Integer tag error&#10;&#9;at sun.security.rsa.RSAKeyFactory.engineGeneratePrivate(RSAKeyFactory.java:217)" />
-              <option value="怎么验证" />
-              <option value="怎么去除标识符" />
               <option value="文件正确" />
               <option value="异常为：java.security.spec.InvalidKeySpecException: java.security.InvalidKeyException: IOException : DER input, Integer tag error" />
               <option value="怎么添加该依赖" />
@@ -50,6 +43,36 @@
               <option value="java.security.spec.InvalidKeySpecException: java.security.InvalidKeyException: IOException : algid parse error, not a sequence" />
               <option value="怎么确认安全库是否兼容" />
               <option value="java.security.spec.InvalidKeySpecException: java.security.InvalidKeyException: IOException : DER input, Integer tag error" />
+              <option value="/explain code" />
+              <option value="I/O error on POST request for &quot;https://perbanktest.allinpaysc.com/comm/account/hra/accBalanceQuery&quot;: Connect to perbanktest.allinpaysc.com:443 [perbanktest.allinpaysc.com/117.139.19.4] failed: connect timed out; nested exception is org.apache.http.conn.ConnectTimeoutException: Connect to perbanktest.allinpaysc.com:443 [perbanktest.allinpaysc.com/117.139.19.4] failed: connect timed out" />
+              <option value="两个服务在同一台服务器上，端口不同，怎么ping通" />
+              <option value="javax.crypto.BadPaddingException: Decryption error" />
+              <option value="javax.crypto.BadPaddingException: Decryption error&#10;&#9;at sun.security.rsa.RSAPadding.unpadV15(RSAPadding.java:380)&#10;&#9;at sun.security.rsa.RSAPadding.unpad(RSAPadding.java:291)&#10;&#9;at com.sun.crypto.provider.RSACipher.doFinal(RSACipher.java:363)&#10;&#9;at com.sun.crypto.provider.RSACipher.engineDoFinal(RSACipher.java:389)&#10;&#9;at javax.crypto.Cipher.doFinal(Cipher.java:2223)&#10;&#9;at com.allinpay.canislupus.openapi.yun.YunEncAndDec.yunDecrypt(YunEncAndDec.java:296)" />
+              <option value="X509EncodedKeySpec加密是否可以用PKCS8EncodedKeySpec解密" />
+              <option value="/explain code" />
+              <option value="/generate unit test" />
+              <option value="/explain code" />
+              <option value="A JSONObject text must begin with '{' at character 0 of" />
+              <option value="/explain code" />
+              <option value="com.sun.crypto.provider.SunJCE&#10;javax.crypto.BadPaddingException: Decryption error&#10;&#9;at sun.security.rsa.RSAPadding.unpadV15(RSAPadding.java:380)&#10;&#9;at sun.security.rsa.RSAPadding.unpad(RSAPadding.java:291)&#10;&#9;at com.sun.crypto.provider.RSACipher.doFinal(RSACipher.java:363)&#10;&#9;at com.sun.crypto.provider.RSACipher.engineDoFinal(RSACipher.java:389)&#10;&#9;at javax.crypto.Cipher.doFinal(Cipher.java:2223)" />
+            </list>
+          </value>
+        </entry>
+        <entry key="Demo1|1541494969064604">
+          <value>
+            <list>
+              <option value="引入boucycastle的依赖" />
+              <option value="/generate optimization" />
+              <option value="/explain code" />
+              <option value="针对以下终端信息，请解释原因并提供修复意见。" />
+              <option value="linux rm" />
+            </list>
+          </value>
+        </entry>
+        <entry key="Demo1|1541494969064604|">
+          <value>
+            <list>
+              <option value="针对以下终端信息，请解释原因并提供修复意见。" />
             </list>
           </value>
         </entry>
@@ -63,14 +86,6 @@
         <entry key="tsy|1541494969064604">
           <value>
             <list>
-              <option value=".bin文件怎么解析为json字符串" />
-              <option value="base64解码" />
-              <option value="帮我转成java类，{&#10;            &quot;mobile_phone&quot;: &quot;12345678910&quot;,&#10;            &quot;retail_name&quot;: &quot;张三烧烤店&quot;,&#10;            &quot;retail_type&quot;: &quot;餐饮店&quot;,&#10;            &quot;address_province&quot;: &quot;广东省&quot;,&#10;            &quot;address_city&quot;: &quot;广州市&quot;,&#10;            &quot;address_region&quot;: &quot;海珠区&quot;,&#10;            &quot;address_street&quot;: &quot;新港中路397号TIT创意园&quot;,&#10;            &quot;longitude&quot;: 113.32531,&#10;            &quot;latitude&quot;: 23.0996132&#10;        }" />
-              <option value="jsonarray转对象数组" />
-              <option value="省市编码表" />
-              <option value="完整的中国省市编码" />
-              <option value="成都市省市编码" />
-              <option value="我需要全部省市的编码，但是不需要精确到区，一个城市就一个编码就行" />
               <option value="Error request, response status: 503" />
               <option value="{&quot;errcode&quot;:0,&quot;errmsg&quot;:&quot;OK&quot;,&quot;list&quot;:[{&quot;status&quot;:2,&quot;inner_resp&quot;:{&quot;status&quot;:0,&quot;code&quot;:&quot;SUCCESS&quot;,&quot;msg&quot;:&quot;success&quot;,&quot;inner_registration_id&quot;:&quot;1451722932150889847078&quot;,&quot;out_registration_id&quot;:&quot;regorder202408061615463860781524&quot;,&quot;registration_status&quot;:&quot;REGISTRATION_STATUS_NEED_USER_OPERATE&quot;,&quot;sub_merchant_registration_status&quot;:{&quot;applyment_state&quot;:&quot;ACCOUNT_NEED_VERIFY&quot;,&quot;applyment_state_desc&quot;:&quot;待账户验证&quot;,&quot;sign_state&quot;:&quot;UNSIGNED&quot;,&quot;sign_url&quot;:&quot;https:\/\/pay.weixin.qq.com\/public\/apply4ec_sign\/s?applymentId=2000002526496714&amp;sign=c1bcf59be0013498641d355946579a35&quot;,&quot;account_validation&quot;:{&quot;account_name&quot;:&quot;四川聚创医药有限公司&quot;,&quot;pay_amount&quot;:95,&quot;destination_account_number&quot;:&quot;7559046472102090064967141&quot;,&quot;destination_account_name&quot;:&quot;财付通支付科技有限公司&quot;,&quot;destination_account_bank&quot;:&quot;招商银行股份有限公司深圳汉京中心支行&quot;,&quot;city&quot;:&quot;深圳&quot;,&quot;remark&quot;:&quot;入驻账户验证&quot;,&quot;deadline&quot;:&quot;2024-09-05 16:15:53&quot;},&quot;audit_detail&quot;:[],&quot;legal_validation_url&quot;:&quot;https:\/\/pay.weixin.qq.com\/public\/ent_person_verify?sign=qmn2ndC6pw+9hlUPEB2N2jzZgs8Mo2caJThuhDuCidfsZMjdSIc8UZmxWPyPWrFg&quot;,&quot;out_request_no&quot;:&quot;1451722932150889847078&quot;,&quot;applyment_id&quot;:2000002526496714}}}],&quot;total&quot;:1}" />
               <option value="生成java类：" />
@@ -83,6 +98,14 @@
               <option value="Unsupported source type: class java.lang.String" />
               <option value="BeanUtil.copyProperties字段属性不同，但是字段名相同，怎么跳过该字段，或者说当属性名和属性都相同时才复制" />
               <option value="格式化：{&quot;qualification&quot;:{&quot;qualification_type&quot;:&quot;保健器械/医疗器械/非处方药品&quot;,&quot;qualifications&quot;:&quot;[\&quot;V1_rXsPa0C--3p7zarOiFknFx52P8nLHmOMHmmBO4vD9C8tzluc5-VWIbLvuDMHFfkxS7a34tnmuW1w_KCzI_aozwLJOzY9eQhmv6giwKWUAjk\&quot;]&quot;},&quot;merchant_shortname&quot;:&quot;欣佳能达&quot;,&quot;account_info&quot;:{&quot;account_bank&quot;:&quot;兴业银行&quot;,&quot;account_name&quot;:&quot;四川欣佳能达医药有限公司&quot;,&quot;account_number&quot;:&quot;431320100100522797&quot;,&quot;bank_account_type&quot;:&quot;74&quot;,&quot;bank_address_code&quot;:&quot;510100&quot;,&quot;bank_branch_id&quot;:&quot;309651001329&quot;,&quot;bank_name&quot;:&quot;兴业银行成都双楠支行&quot;},&quot;organization_type&quot;:1,&quot;id_card_info&quot;:{&quot;id_card_address&quot;:&quot;成都市青羊区东坡北二路687号2栋1单元14楼4号&quot;,&quot;id_card_copy&quot;:&quot;V1_1aMdbwLr_cj-DY0PHtoGRR52P8nLHmMem6Q7JDzvdO2nA49ZS6TKIaDWuzMHFfkxBR9sDzY3FKwThxYk3ZzRtALJOzY9eQhmv6giwKWUAjk&quot;,&quot;id_card_name&quot;:&quot;苏亚洲&quot;,&quot;id_card_national&quot;:&quot;V1_3T-0f5oTen8xOJxzL2cc-R52P8nLHmMK2Xva6xcHT2ISxvsWV-AZIZHLuzMHFfkxlc3ZYqyQSC2tT6cpPTsDeQLJOzY9eQhmv6giwKWUAjk&quot;,&quot;id_card_number&quot;:&quot;362201198510065259&quot;,&quot;id_card_valid_time&quot;:&quot;2038-01-17&quot;,&quot;id_card_valid_time_begin&quot;:&quot;2018-01-17&quot;},&quot;contact_info&quot;:{&quot;business_authorization_letter&quot;:&quot;V1_xR8dM3Ys9ZGlRnYJdSEdWx52P8nLHmPzUOuEKLdddfNVYka3TF4YIdX9sjMHFfkxsHRQFBXBVwqOzCZUVLHJfwLJOzY9eQhmv6giwKWUAjk&quot;,&quot;contact_email&quot;:&quot;78048178@qq.com&quot;,&quot;contact_id_card_number&quot;:&quot;51010619870424483X&quot;,&quot;contact_id_doc_copy&quot;:&quot;V1_qBrCyh6LxkYaC1ybOP63Ix52P8nLHmMtwrdVcFKksnfsPm9JfLSXIfPGsDMHFfkxLLDIIfCNIxRQOxnhA1w3RgLJOzY9eQhmv6giwKWUAjk&quot;,&quot;contact_id_doc_copy_back&quot;:&quot;V1_v70ggzi7v3Yl-KDUHIsFsh52P8nLHmPqUXzaVqCvzbOTixr_MyE3IbPssDMHFfkxooyj3jKFY6lfcVxN6i8nYALJOzY9eQhmv6giwKWUAjk&quot;,&quot;contact_id_doc_period_begin&quot;:&quot;2016-06-06&quot;,&quot;contact_id_doc_period_end&quot;:&quot;2036-06-06&quot;,&quot;contact_id_doc_type&quot;:&quot;IDENTIFICATION_TYPE_MAINLAND_IDCARD&quot;,&quot;contact_name&quot;:&quot;张飞&quot;,&quot;contact_type&quot;:&quot;66&quot;,&quot;mobile_phone&quot;:&quot;18780283557&quot;},&quot;business_license&quot;:{&quot;business_license_copy&quot;:&quot;V1_IEojnbmVk17tnXFlEGL5Kh52P8nLHmOiCMHZTaZyqpzOmamsdgeiIeWXvjMHFfkx-vynyljlZs0tqfkHyflG4wLJOzY9eQhmv6giwKWUAjk&quot;,&quot;business_license_number&quot;:&quot;91510112590226973R&quot;,&quot;legal_person&quot;:&quot;苏亚洲&quot;,&quot;merchant_name&quot;:&quot;四川欣佳能达医药有限公司&quot;},&quot;id_doc_type_num&quot;:1}" />
+              <option value="我想在json字符串转类的时候，用注解匹配字段名" />
+              <option value="RequestBody 中对象字段名映射" />
+              <option value="检查sql ：&#9;&#9;update hht_notify_deposit set remark = '饿了么外卖' where payer_acct_name like '%拉扎斯%‘" />
+              <option value="AND reconciliation_detail.store_no = #{storeNo}后面可以加00:00:00吗" />
+              <option value="mybatis中AND reconciliation_detail.comission_time = #{time} 后面可以加00:00:00吗" />
+              <option value="SELECT remark billType, amt amount, commission_info commissionInfo, txn_date commissionDate, txn_date settleDate from hht_notify_deposit将varchar的时间yyyymmdd转为yyyy-mm-dd" />
+              <option value="/explain code" />
+              <option value="未生效" />
             </list>
           </value>
         </entry>
@@ -90,5 +113,6 @@
     </option>
     <option name="showInlineAcceptTips" value="false" />
     <option name="showInlineCancelTips" value="false" />
+    <option name="showInlineTriggerTips" value="false" />
   </component>
 </application>
