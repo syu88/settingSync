@@ -86,7 +86,6 @@
         <entry key="tsy|1541494969064604">
           <value>
             <list>
-              <option value="SELECT remark billType, amt amount, commission_info commissionInfo, txn_date commissionDate, txn_date settleDate from hht_notify_deposit将varchar的时间yyyymmdd转为yyyy-mm-dd" />
               <option value="/explain code" />
               <option value="未生效" />
               <option value="responseStatusCode = response.getStatusLine().getStatusCode();报&#9;java.lang.NullPointerException: null at com.order.notify.standardTrans.StandardTransNotifyMerchantHandler.dealNotify(StandardTransNotifyMerchantHandler.java:204)" />
@@ -106,6 +105,7 @@
               <option value="倒序" />
               <option value="stream().sorted倒序" />
               <option value="集合倒序怎么用stream流作" />
+              <option value="/generate optimization" />
             </list>
           </value>
         </entry>
