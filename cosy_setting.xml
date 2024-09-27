@@ -86,9 +86,6 @@
         <entry key="tsy|1541494969064604">
           <value>
             <list>
-              <option value="responseStatusCode = response.getStatusLine().getStatusCode();报&#9;java.lang.NullPointerException: null at com.order.notify.standardTrans.StandardTransNotifyMerchantHandler.dealNotify(StandardTransNotifyMerchantHandler.java:204)" />
-              <option value="data文件转excel" />
-              <option value=".data格式文件转excel文件" />
               <option value=".data格式文件转excel文件上传到服务器" />
               <option value="怎么在第一行加title" />
               <option value="手动创建表头" />
@@ -106,6 +103,9 @@
               <option value="/generate optimization" />
               <option value="生成六位随机数" />
               <option value="生成B2bFeeRechargeRecordController类的接口文档" />
+              <option value="HhtFeeSupplyTrans生成json返回数据" />
+              <option value="@Id&#10;    private Integer id;&#10;&#10;    /**&#10;     * 静态单号&#10;     */&#10;    @Column(name = &quot;tran_no&quot;)&#10;    private String tranNo;&#10;&#10;    /**&#10;     * 好惠通流水号&#10;     */&#10;    @Column(name = &quot;txn_no&quot;)&#10;    private String txnNo;&#10;&#10;    /**&#10;     * 商户订单号&#10;     */&#10;    @Column(name = &quot;balance_order_no&quot;)&#10;    private String balanceOrderNo;&#10;&#10;    /**&#10;     * 平台号&#10;     */&#10;    @Column(name = &quot;ter_no&quot;)&#10;    private String terNo;&#10;&#10;    /**&#10;     * isv平台号&#10;     */&#10;    @Column(name = &quot;isv_no&quot;)&#10;    private String isvNo;&#10;&#10;    /**&#10;     * 平台名称&#10;     */&#10;    @Column(name = &quot;ter_name&quot;)&#10;    private String terName;&#10;&#10;    /**&#10;     * 订单客户编号&#10;     */&#10;    @Column(name = &quot;receive_id&quot;)&#10;    private String receiveId;&#10;&#10;    /**&#10;     * 品牌手续费客户编号&#10;     */&#10;    @Column(name = &quot;payer_id&quot;)&#10;    private String payerId;&#10;&#10;    /**&#10;     * 结算金额&#10;     */&#10;    @Column(name = &quot;settle_amount&quot;)&#10;    private BigDecimal settleAmount;&#10;&#10;    /**&#10;     * 支付金额&#10;     */&#10;    @Column(name = &quot;pay_amount&quot;)&#10;    private BigDecimal payAmount;&#10;&#10;    /**&#10;     * 手续费&#10;     */&#10;    private BigDecimal fee;" />
+              <option value="生成接口文档返回参数示例" />
             </list>
           </value>
         </entry>
