@@ -76,6 +76,13 @@
             </list>
           </value>
         </entry>
+        <entry key="canislupus|1541494969064604">
+          <value>
+            <list>
+              <option value="如何把本项目加入到gitlab" />
+            </list>
+          </value>
+        </entry>
         <entry key="tsy|">
           <value>
             <list>
@@ -86,8 +93,6 @@
         <entry key="tsy|1541494969064604">
           <value>
             <list>
-              <option value=".data格式文件转excel文件上传到服务器" />
-              <option value="怎么在第一行加title" />
               <option value="手动创建表头" />
               <option value="怎么设置列宽" />
               <option value="java.lang.OutOfMemoryError: GC overhead limit exceeded At：java.lang.String.toUpperCase(String.java:2753)" />
@@ -106,6 +111,8 @@
               <option value="HhtFeeSupplyTrans生成json返回数据" />
               <option value="@Id&#10;    private Integer id;&#10;&#10;    /**&#10;     * 静态单号&#10;     */&#10;    @Column(name = &quot;tran_no&quot;)&#10;    private String tranNo;&#10;&#10;    /**&#10;     * 好惠通流水号&#10;     */&#10;    @Column(name = &quot;txn_no&quot;)&#10;    private String txnNo;&#10;&#10;    /**&#10;     * 商户订单号&#10;     */&#10;    @Column(name = &quot;balance_order_no&quot;)&#10;    private String balanceOrderNo;&#10;&#10;    /**&#10;     * 平台号&#10;     */&#10;    @Column(name = &quot;ter_no&quot;)&#10;    private String terNo;&#10;&#10;    /**&#10;     * isv平台号&#10;     */&#10;    @Column(name = &quot;isv_no&quot;)&#10;    private String isvNo;&#10;&#10;    /**&#10;     * 平台名称&#10;     */&#10;    @Column(name = &quot;ter_name&quot;)&#10;    private String terName;&#10;&#10;    /**&#10;     * 订单客户编号&#10;     */&#10;    @Column(name = &quot;receive_id&quot;)&#10;    private String receiveId;&#10;&#10;    /**&#10;     * 品牌手续费客户编号&#10;     */&#10;    @Column(name = &quot;payer_id&quot;)&#10;    private String payerId;&#10;&#10;    /**&#10;     * 结算金额&#10;     */&#10;    @Column(name = &quot;settle_amount&quot;)&#10;    private BigDecimal settleAmount;&#10;&#10;    /**&#10;     * 支付金额&#10;     */&#10;    @Column(name = &quot;pay_amount&quot;)&#10;    private BigDecimal payAmount;&#10;&#10;    /**&#10;     * 手续费&#10;     */&#10;    private BigDecimal fee;" />
               <option value="生成接口文档返回参数示例" />
+              <option value="Error querying database. Cause: java.lang.ClassCastException:" />
+              <option value="nested exception is org.apache.ibatis.exceptions.PersistenceException: \n### Error querying database. Cause: java.lang.ClassCastException: org.apache.shardingsphere.sql.parser.sql.segment.dml.item.ExpressionProjectionSegment cannot be cast to org.apache.shardingsphere.sql.parser.sql.segment.dml.column.ColumnSegment\n### The error may exist in URL [jar:file:/app/tsy/order/order-service-0.0.1-SNAPSHOT.jar!/BOOT-INF/classes!/mapper/ReconciliationDetailMapper.xml]\n### The error may involve defaultParameterMap\n### The error occurred while setting parameters\n### SQL: SELECT b.channel billType, a.amount, a.commission_amount commissionAmount, a.settle_amount settleAmount, a.comission_info commissionInfo, a.comission_time commissionDate, a.sttle_time settleDate FROM reconciliation_detail a left JOIN reconciliation_file b on a.file_id = b.id WHERE a.store_no = ? AND STR_TO_DATE(a.sttle_time, '%Y-%m-%d') BETWEEN ? AND ?\n### Cause: java.lang.ClassCastException: org.apache.shardingsphere.sql.parser.sql.segment.dml.item.ExpressionProjectionSegment cannot be cast to org.apache.shardingsphere.sql.parser.sql.segment.dml.column.ColumnSegment&quot;" />
             </list>
           </value>
         </entry>
