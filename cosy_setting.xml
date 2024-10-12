@@ -93,10 +93,6 @@
         <entry key="tsy|1541494969064604">
           <value>
             <list>
-              <option value="后端组合好的list可以用分页查询吗" />
-              <option value="STR_TO_DATE(txn_date, '%Y%m%d')转换为日期时分秒" />
-              <option value="倒叙" />
-              <option value="倒序" />
               <option value="stream().sorted倒序" />
               <option value="集合倒序怎么用stream流作" />
               <option value="/generate optimization" />
@@ -113,6 +109,10 @@
               <option value="但是报错" />
               <option value="20231101154810在mysql怎么转格式" />
               <option value="/explain code" />
+              <option value="20240901000000转成年月" />
+              <option value="mysql" />
+              <option value="mysql将202409字符串转为yyyy-mm" />
+              <option value="SELECT STR_TO_DATE('202409', '%Y%m') AS date_value;查询出来null" />
             </list>
           </value>
         </entry>
