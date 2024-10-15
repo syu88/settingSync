@@ -93,7 +93,6 @@
         <entry key="tsy|1541494969064604">
           <value>
             <list>
-              <option value="HhtFeeSupplyTrans生成json返回数据" />
               <option value="@Id&#10;    private Integer id;&#10;&#10;    /**&#10;     * 静态单号&#10;     */&#10;    @Column(name = &quot;tran_no&quot;)&#10;    private String tranNo;&#10;&#10;    /**&#10;     * 好惠通流水号&#10;     */&#10;    @Column(name = &quot;txn_no&quot;)&#10;    private String txnNo;&#10;&#10;    /**&#10;     * 商户订单号&#10;     */&#10;    @Column(name = &quot;balance_order_no&quot;)&#10;    private String balanceOrderNo;&#10;&#10;    /**&#10;     * 平台号&#10;     */&#10;    @Column(name = &quot;ter_no&quot;)&#10;    private String terNo;&#10;&#10;    /**&#10;     * isv平台号&#10;     */&#10;    @Column(name = &quot;isv_no&quot;)&#10;    private String isvNo;&#10;&#10;    /**&#10;     * 平台名称&#10;     */&#10;    @Column(name = &quot;ter_name&quot;)&#10;    private String terName;&#10;&#10;    /**&#10;     * 订单客户编号&#10;     */&#10;    @Column(name = &quot;receive_id&quot;)&#10;    private String receiveId;&#10;&#10;    /**&#10;     * 品牌手续费客户编号&#10;     */&#10;    @Column(name = &quot;payer_id&quot;)&#10;    private String payerId;&#10;&#10;    /**&#10;     * 结算金额&#10;     */&#10;    @Column(name = &quot;settle_amount&quot;)&#10;    private BigDecimal settleAmount;&#10;&#10;    /**&#10;     * 支付金额&#10;     */&#10;    @Column(name = &quot;pay_amount&quot;)&#10;    private BigDecimal payAmount;&#10;&#10;    /**&#10;     * 手续费&#10;     */&#10;    private BigDecimal fee;" />
               <option value="生成接口文档返回参数示例" />
               <option value="Error querying database. Cause: java.lang.ClassCastException:" />
@@ -113,6 +112,7 @@
               <option value="/explain code" />
               <option value="java.lang.IllegalArgumentException: fromIndex(9) &gt; toIndex(2)" />
               <option value="// 好惠通会员状态：1（认证成功：代表开户成功并且自定义授权成功），2（未认证：未开户），8（待小额打款），9（小额打款失败），10（待人工审核），11（人工审核驳回），12（个人会员待短信验证），13（企业会员待联系人短验，成功之后判断是否需要14验证），14（企业会员待法人短验）, 15（企业会员联系人短验中）, 16（企业会员法人短验中）,17（待自定义授权）&#10;            map.put(&quot;status&quot;, (member.getStatus() != null &amp;&amp; member.getStatus() == 1) ? &quot;已认证&quot; : &quot;未认证&quot;);" />
+              <option value="/explain code" />
             </list>
           </value>
         </entry>
