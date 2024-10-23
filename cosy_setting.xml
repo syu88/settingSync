@@ -116,6 +116,14 @@
             </list>
           </value>
         </entry>
+        <entry key="zhjy|1541494969064604">
+          <value>
+            <list>
+              <option value="比较时间大小" />
+              <option value="传入两个yyyy-MM-dd HH:mm:ss类型的字符串，比较时间大小" />
+            </list>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="showInlineAcceptTips" value="false" />
