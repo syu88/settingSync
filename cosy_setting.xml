@@ -82,6 +82,7 @@
               <option value="&lt;if test=&quot;authPageStatus != null &quot;&gt; and a.status in (#{authPageStatus})&lt;/if&gt; 改为list循环" />
               <option value="vue前端分割线带字" />
               <option value="elementui文本域" />
+              <option value="elementui单选框" />
             </list>
           </value>
         </entry>
