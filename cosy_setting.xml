@@ -116,10 +116,6 @@
         <entry key="tsy|1541494969064604">
           <value>
             <list>
-              <option value="Error querying database. Cause: java.lang.ClassCastException:" />
-              <option value="nested exception is org.apache.ibatis.exceptions.PersistenceException: \n### Error querying database. Cause: java.lang.ClassCastException: org.apache.shardingsphere.sql.parser.sql.segment.dml.item.ExpressionProjectionSegment cannot be cast to org.apache.shardingsphere.sql.parser.sql.segment.dml.column.ColumnSegment\n### The error may exist in URL [jar:file:/app/tsy/order/order-service-0.0.1-SNAPSHOT.jar!/BOOT-INF/classes!/mapper/ReconciliationDetailMapper.xml]\n### The error may involve defaultParameterMap\n### The error occurred while setting parameters\n### SQL: SELECT b.channel billType, a.amount, a.commission_amount commissionAmount, a.settle_amount settleAmount, a.comission_info commissionInfo, a.comission_time commissionDate, a.sttle_time settleDate FROM reconciliation_detail a left JOIN reconciliation_file b on a.file_id = b.id WHERE a.store_no = ? AND STR_TO_DATE(a.sttle_time, '%Y-%m-%d') BETWEEN ? AND ?\n### Cause: java.lang.ClassCastException: org.apache.shardingsphere.sql.parser.sql.segment.dml.item.ExpressionProjectionSegment cannot be cast to org.apache.shardingsphere.sql.parser.sql.segment.dml.column.ColumnSegment&quot;" />
-              <option value="DATE_FORMAT" />
-              <option value="nested exception is org.apache.ibatis.exceptions.PersistenceException: \n### Error querying database. Cause: java.lang.ClassCastException: org.apache.shardingsphere.sql.parser.sql.segment.dml.item.ExpressionProjectionSegment cannot be cast to org.apache.shardingsphere.sql.parser.sql.segment.dml.column.ColumnSegment\n### The error may exist in URL [jar:file:/app/tsy/order/order-service-0.0.1-SNAPSHOT.jar!/BOOT-INF/classes!/mapper/ReconciliationDetailMapper.xml]\n### The error may involve defaultParameterMap\n### The error occurred while setting parameters\n### SQL: SELECT b.channel billType, a.amount, a.commission_amount commissionAmount, a.settle_amount settleAmount, a.comission_info commissionInfo, a.comission_time commissionDate, a.sttle_time settleDate FROM reconciliation_detail a left JOIN reconciliation_file b on a.file_id = b.id WHERE a.store_no = ? AND STR_TO_DATE(a.sttle_time, '%Y-%m-%d') BETWEEN STR_TO_DATE(?, '%Y-%m-%d') AND STR_TO_DATE(?, '%Y-%m-%d')\n### Cause: java.lang.ClassCastException: org.apache.shardingsphere.sql.parser.sql.segment.dml.item.ExpressionProjectionSegment cannot be cast to org.apache.shardingsphere.sql.parser.sql.segment.dml.column.ColumnSegment" />
               <option value="是字符串类型" />
               <option value="但是报错" />
               <option value="20231101154810在mysql怎么转格式" />
@@ -136,6 +132,10 @@
               <option value="/explain code" />
               <option value="List&lt;Integer&gt;转为逗号分割的string" />
               <option value="两个list中对象的属性有部分相同，怎么copy" />
+              <option value="long类型做乘法保留整数" />
+              <option value="long类型做乘法精度偏差" />
+              <option value="double做乘法避免精度偏差" />
+              <option value="new BigDecimal(rate).multiply(new BigDecimal(100))保留整数" />
             </list>
           </value>
         </entry>
