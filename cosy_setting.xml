@@ -123,8 +123,6 @@
         <entry key="tsy|1541494969064604">
           <value>
             <list>
-              <option value="20231101154810在mysql怎么转格式" />
-              <option value="/explain code" />
               <option value="20240901000000转成年月" />
               <option value="mysql" />
               <option value="mysql将202409字符串转为yyyy-mm" />
@@ -143,6 +141,8 @@
               <option value="new BigDecimal(rate).multiply(new BigDecimal(100))保留整数" />
               <option value="PayCheckOrder 转成json字符串" />
               <option value="public class PayCheckOrder {&#10;    &#10;    private String platform_order_time;&#10;    &#10;    private String platform_order_No;&#10;    &#10;    private String order_amt;&#10;    &#10;    private String order_desc;&#10;    &#10;    private String order_summary;&#10;    &#10;    private String order_remark;&#10;    &#10;    private List&lt;PayCheckOrderDetailsList&gt; payCheckOrderDetailsList;&#10;    &#10;    @Data&#10;    public static class PayCheckOrderDetailsList{&#10;        &#10;        private String product_name;&#10;        &#10;        private String product_cnt;&#10;        &#10;        private String product_amt;&#10;        &#10;    }&#10;} 生成一个json字符串示例" />
+              <option value="/explain code" />
+              <option value="如果字段为对象的话怎么处理" />
             </list>
           </value>
         </entry>
