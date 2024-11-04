@@ -102,6 +102,7 @@
           <value>
             <list>
               <option value="后端返的json数组字符串，前端怎么解析为对象" />
+              <option value="前端正则表达式0-1之间的两位小数" />
             </list>
           </value>
         </entry>
