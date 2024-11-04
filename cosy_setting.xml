@@ -98,6 +98,13 @@
             </list>
           </value>
         </entry>
+        <entry key="postofficeticket|1541494969064604">
+          <value>
+            <list>
+              <option value="{&#10;  &quot;platform_order_time&quot;: &quot;2024-11-01 18:43:22&quot;,&#10;  &quot;platform_order_No&quot;: &quot;1234567890&quot;,&#10;  &quot;order_amt&quot;: &quot;10&quot;,&#10;  &quot;order_desc&quot;: &quot;&quot;,&#10;  &quot;order_summary&quot;: &quot;&quot;,&#10;  &quot;order_remark&quot;: &quot;&quot;,&#10;  &quot;payCheckOrderDetailsList&quot;: [&#10;    {&#10;      &quot;product_name&quot;: &quot;馒头&quot;,&#10;      &quot;product_cnt&quot;: &quot;1&quot;,&#10;      &quot;product_amt&quot;: &quot;10&quot;&#10;    }  ]&#10;}转为json请求字符串格式" />
+            </list>
+          </value>
+        </entry>
         <entry key="tsy-admin|1541494969064604">
           <value>
             <list>
@@ -116,8 +123,6 @@
         <entry key="tsy|1541494969064604">
           <value>
             <list>
-              <option value="是字符串类型" />
-              <option value="但是报错" />
               <option value="20231101154810在mysql怎么转格式" />
               <option value="/explain code" />
               <option value="20240901000000转成年月" />
@@ -136,6 +141,8 @@
               <option value="long类型做乘法精度偏差" />
               <option value="double做乘法避免精度偏差" />
               <option value="new BigDecimal(rate).multiply(new BigDecimal(100))保留整数" />
+              <option value="PayCheckOrder 转成json字符串" />
+              <option value="public class PayCheckOrder {&#10;    &#10;    private String platform_order_time;&#10;    &#10;    private String platform_order_No;&#10;    &#10;    private String order_amt;&#10;    &#10;    private String order_desc;&#10;    &#10;    private String order_summary;&#10;    &#10;    private String order_remark;&#10;    &#10;    private List&lt;PayCheckOrderDetailsList&gt; payCheckOrderDetailsList;&#10;    &#10;    @Data&#10;    public static class PayCheckOrderDetailsList{&#10;        &#10;        private String product_name;&#10;        &#10;        private String product_cnt;&#10;        &#10;        private String product_amt;&#10;        &#10;    }&#10;} 生成一个json字符串示例" />
             </list>
           </value>
         </entry>
