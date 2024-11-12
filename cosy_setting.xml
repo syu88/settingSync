@@ -76,10 +76,40 @@
             </list>
           </value>
         </entry>
+        <entry key="business|1541494969064604">
+          <value>
+            <list>
+              <option value="&lt;if test=&quot;authPageStatus != null &quot;&gt; and a.status in (#{authPageStatus})&lt;/if&gt; 改为list循环" />
+              <option value="vue前端分割线带字" />
+              <option value="elementui文本域" />
+              <option value="elementui单选框" />
+              <option value="前端js生成一个对象包含行业名字和面积，面积用集合展示   餐饮&#9;小于150m²&#9;150m²（含）-500m²&#9;大于500m²（含)" />
+              <option value="statusOptions:[&#10;        {&#10;          label: &quot;审核驳回&quot;,&#10;          value: 0&#10;        },&#10;        {&#10;          label: &quot;待审核&quot;,&#10;          value: 1&#10;        }&#10;      ] 用这种格式" />
+              <option value="把label合并，可以吧value合并为一个新的属性名集合" />
+              <option value="住宿&#9;小于55间&#9;55间（含)-100间&#9;大于150间（含)&#10;理发店&#9;小于50m²&#9;50m²（含）-100m²&#9;大于100m²（含)&#10;超市&#9;小于500m²&#9;500m²（含）-1000m²&#9;大于1000m²（含)&#10;农贸市场&#9;商用摊位&#9;农牧民摊位&#9;门面商铺&#10;特色产品专卖店&#9;小于100m²（含）&#9;&#9;大于100m²&#10;民族演艺厅&#9;小于300m²&#9;&#9;大于100m²（含）&#10;药店（含门诊）&#9;小于100m²（含）&#9;&#9;大于100m²&#10;服装店&#9;小于150m²（含）&#9;&#9;大于150m²&#10;干洗店（含洗鞋店）&#9;小于150m²（含）&#9;&#9;大于150m²" />
+              <option value="我需要用两个el-select做选择，一个选择行业，一个选择关联的children的面积" />
+            </list>
+          </value>
+        </entry>
         <entry key="canislupus|1541494969064604">
           <value>
             <list>
               <option value="如何把本项目加入到gitlab" />
+            </list>
+          </value>
+        </entry>
+        <entry key="postofficeticket|1541494969064604">
+          <value>
+            <list>
+              <option value="{&#10;  &quot;platform_order_time&quot;: &quot;2024-11-01 18:43:22&quot;,&#10;  &quot;platform_order_No&quot;: &quot;1234567890&quot;,&#10;  &quot;order_amt&quot;: &quot;10&quot;,&#10;  &quot;order_desc&quot;: &quot;&quot;,&#10;  &quot;order_summary&quot;: &quot;&quot;,&#10;  &quot;order_remark&quot;: &quot;&quot;,&#10;  &quot;payCheckOrderDetailsList&quot;: [&#10;    {&#10;      &quot;product_name&quot;: &quot;馒头&quot;,&#10;      &quot;product_cnt&quot;: &quot;1&quot;,&#10;      &quot;product_amt&quot;: &quot;10&quot;&#10;    }  ]&#10;}转为json请求字符串格式" />
+            </list>
+          </value>
+        </entry>
+        <entry key="tsy-admin|1541494969064604">
+          <value>
+            <list>
+              <option value="后端返的json数组字符串，前端怎么解析为对象" />
+              <option value="前端正则表达式0-1之间的两位小数" />
             </list>
           </value>
         </entry>
@@ -93,18 +123,6 @@
         <entry key="tsy|1541494969064604">
           <value>
             <list>
-              <option value="生成B2bFeeRechargeRecordController类的接口文档" />
-              <option value="HhtFeeSupplyTrans生成json返回数据" />
-              <option value="@Id&#10;    private Integer id;&#10;&#10;    /**&#10;     * 静态单号&#10;     */&#10;    @Column(name = &quot;tran_no&quot;)&#10;    private String tranNo;&#10;&#10;    /**&#10;     * 好惠通流水号&#10;     */&#10;    @Column(name = &quot;txn_no&quot;)&#10;    private String txnNo;&#10;&#10;    /**&#10;     * 商户订单号&#10;     */&#10;    @Column(name = &quot;balance_order_no&quot;)&#10;    private String balanceOrderNo;&#10;&#10;    /**&#10;     * 平台号&#10;     */&#10;    @Column(name = &quot;ter_no&quot;)&#10;    private String terNo;&#10;&#10;    /**&#10;     * isv平台号&#10;     */&#10;    @Column(name = &quot;isv_no&quot;)&#10;    private String isvNo;&#10;&#10;    /**&#10;     * 平台名称&#10;     */&#10;    @Column(name = &quot;ter_name&quot;)&#10;    private String terName;&#10;&#10;    /**&#10;     * 订单客户编号&#10;     */&#10;    @Column(name = &quot;receive_id&quot;)&#10;    private String receiveId;&#10;&#10;    /**&#10;     * 品牌手续费客户编号&#10;     */&#10;    @Column(name = &quot;payer_id&quot;)&#10;    private String payerId;&#10;&#10;    /**&#10;     * 结算金额&#10;     */&#10;    @Column(name = &quot;settle_amount&quot;)&#10;    private BigDecimal settleAmount;&#10;&#10;    /**&#10;     * 支付金额&#10;     */&#10;    @Column(name = &quot;pay_amount&quot;)&#10;    private BigDecimal payAmount;&#10;&#10;    /**&#10;     * 手续费&#10;     */&#10;    private BigDecimal fee;" />
-              <option value="生成接口文档返回参数示例" />
-              <option value="Error querying database. Cause: java.lang.ClassCastException:" />
-              <option value="nested exception is org.apache.ibatis.exceptions.PersistenceException: \n### Error querying database. Cause: java.lang.ClassCastException: org.apache.shardingsphere.sql.parser.sql.segment.dml.item.ExpressionProjectionSegment cannot be cast to org.apache.shardingsphere.sql.parser.sql.segment.dml.column.ColumnSegment\n### The error may exist in URL [jar:file:/app/tsy/order/order-service-0.0.1-SNAPSHOT.jar!/BOOT-INF/classes!/mapper/ReconciliationDetailMapper.xml]\n### The error may involve defaultParameterMap\n### The error occurred while setting parameters\n### SQL: SELECT b.channel billType, a.amount, a.commission_amount commissionAmount, a.settle_amount settleAmount, a.comission_info commissionInfo, a.comission_time commissionDate, a.sttle_time settleDate FROM reconciliation_detail a left JOIN reconciliation_file b on a.file_id = b.id WHERE a.store_no = ? AND STR_TO_DATE(a.sttle_time, '%Y-%m-%d') BETWEEN ? AND ?\n### Cause: java.lang.ClassCastException: org.apache.shardingsphere.sql.parser.sql.segment.dml.item.ExpressionProjectionSegment cannot be cast to org.apache.shardingsphere.sql.parser.sql.segment.dml.column.ColumnSegment&quot;" />
-              <option value="DATE_FORMAT" />
-              <option value="nested exception is org.apache.ibatis.exceptions.PersistenceException: \n### Error querying database. Cause: java.lang.ClassCastException: org.apache.shardingsphere.sql.parser.sql.segment.dml.item.ExpressionProjectionSegment cannot be cast to org.apache.shardingsphere.sql.parser.sql.segment.dml.column.ColumnSegment\n### The error may exist in URL [jar:file:/app/tsy/order/order-service-0.0.1-SNAPSHOT.jar!/BOOT-INF/classes!/mapper/ReconciliationDetailMapper.xml]\n### The error may involve defaultParameterMap\n### The error occurred while setting parameters\n### SQL: SELECT b.channel billType, a.amount, a.commission_amount commissionAmount, a.settle_amount settleAmount, a.comission_info commissionInfo, a.comission_time commissionDate, a.sttle_time settleDate FROM reconciliation_detail a left JOIN reconciliation_file b on a.file_id = b.id WHERE a.store_no = ? AND STR_TO_DATE(a.sttle_time, '%Y-%m-%d') BETWEEN STR_TO_DATE(?, '%Y-%m-%d') AND STR_TO_DATE(?, '%Y-%m-%d')\n### Cause: java.lang.ClassCastException: org.apache.shardingsphere.sql.parser.sql.segment.dml.item.ExpressionProjectionSegment cannot be cast to org.apache.shardingsphere.sql.parser.sql.segment.dml.column.ColumnSegment" />
-              <option value="是字符串类型" />
-              <option value="但是报错" />
-              <option value="20231101154810在mysql怎么转格式" />
-              <option value="/explain code" />
               <option value="20240901000000转成年月" />
               <option value="mysql" />
               <option value="mysql将202409字符串转为yyyy-mm" />
@@ -113,6 +131,26 @@
               <option value="java.lang.IllegalArgumentException: fromIndex(9) &gt; toIndex(2)" />
               <option value="/explain code" />
               <option value="java.lang.IllegalArgumentException: fromIndex(9) &gt; toIndex(2)" />
+              <option value="// 好惠通会员状态：1（认证成功：代表开户成功并且自定义授权成功），2（未认证：未开户），8（待小额打款），9（小额打款失败），10（待人工审核），11（人工审核驳回），12（个人会员待短信验证），13（企业会员待联系人短验，成功之后判断是否需要14验证），14（企业会员待法人短验）, 15（企业会员联系人短验中）, 16（企业会员法人短验中）,17（待自定义授权）&#10;            map.put(&quot;status&quot;, (member.getStatus() != null &amp;&amp; member.getStatus() == 1) ? &quot;已认证&quot; : &quot;未认证&quot;);" />
+              <option value="/explain code" />
+              <option value="List&lt;Integer&gt;转为逗号分割的string" />
+              <option value="两个list中对象的属性有部分相同，怎么copy" />
+              <option value="long类型做乘法保留整数" />
+              <option value="long类型做乘法精度偏差" />
+              <option value="double做乘法避免精度偏差" />
+              <option value="new BigDecimal(rate).multiply(new BigDecimal(100))保留整数" />
+              <option value="PayCheckOrder 转成json字符串" />
+              <option value="public class PayCheckOrder {&#10;    &#10;    private String platform_order_time;&#10;    &#10;    private String platform_order_No;&#10;    &#10;    private String order_amt;&#10;    &#10;    private String order_desc;&#10;    &#10;    private String order_summary;&#10;    &#10;    private String order_remark;&#10;    &#10;    private List&lt;PayCheckOrderDetailsList&gt; payCheckOrderDetailsList;&#10;    &#10;    @Data&#10;    public static class PayCheckOrderDetailsList{&#10;        &#10;        private String product_name;&#10;        &#10;        private String product_cnt;&#10;        &#10;        private String product_amt;&#10;        &#10;    }&#10;} 生成一个json字符串示例" />
+              <option value="/explain code" />
+              <option value="如果字段为对象的话怎么处理" />
+            </list>
+          </value>
+        </entry>
+        <entry key="zhjy|1541494969064604">
+          <value>
+            <list>
+              <option value="比较时间大小" />
+              <option value="传入两个yyyy-MM-dd HH:mm:ss类型的字符串，比较时间大小" />
             </list>
           </value>
         </entry>
