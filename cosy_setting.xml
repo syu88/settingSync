@@ -123,7 +123,6 @@
         <entry key="tsy|1541494969064604">
           <value>
             <list>
-              <option value="SELECT STR_TO_DATE('202409', '%Y%m') AS date_value;查询出来null" />
               <option value="java中20241010180109转为yyyy-mm-dd hh:ss:mm格式" />
               <option value="java.lang.IllegalArgumentException: fromIndex(9) &gt; toIndex(2)" />
               <option value="/explain code" />
@@ -143,6 +142,7 @@
               <option value="Error evaluating expression 'example.oredCriteria'. Cause: org.apache.ibatis.ognl.NoSuchPropertyException: tk.mybatis.mapper.entity.Example$Criteria.oredCriteria" />
               <option value="生成yyyymmdd的字符串往前推一天" />
               <option value="DateUtil.offsetDay(new Date(), -1)" />
+              <option value="/explain code" />
             </list>
           </value>
         </entry>
