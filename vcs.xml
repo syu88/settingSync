@@ -81,6 +81,10 @@
           <option name="url" value="http://10.160.2.28:8880/xinghaihao/tlzf_monitor.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.160.2.28:8880/sunshuyi/ymy_admin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/JavaFiles/IDEAPrograms/WorkSpace/TLprojects" />
