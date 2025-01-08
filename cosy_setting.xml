@@ -717,6 +717,87 @@
                   </list>
                 </option>
               </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="&quot;list&quot;: [&#10;                {&#10;                    &quot;uuid&quot;: 13381561,&#10;                    &quot;terraceBizUserId&quot;: &quot;1270907469963833345&quot;,&#10;                    &quot;bizUserId&quot;: &quot;1115491349(爱美蒂亚医疗美容有限公司)&quot;,&#10;                    &quot;payerId&quot;: &quot;6484db7b-4abd-4bdc-b300-6854a11f8a37&quot;,&#10;                    &quot;recieverId&quot;: &quot;1115491349(爱美蒂亚医疗美容有限公司)&quot;,&#10;                    &quot;accountSetNo&quot;: &quot;400502&quot;,&#10;                    &quot;orderNo&quot;: &quot;1876544466253619200&quot;,&#10;                    &quot;oldOrderNo&quot;: null,&#10;                    &quot;bizOrderNo&quot;: &quot;1876544454454600032&quot;,&#10;                    &quot;oriBizOrderNo&quot;: &quot;1874689938242187264&quot;,&#10;                    &quot;merOrderNo&quot;: null,&#10;                    &quot;payWhereAbouts&quot;: null,&#10;                    &quot;tradeNo&quot;: null,&#10;                    &quot;tradeCode&quot;: &quot;4002&quot;,&#10;                    &quot;payCode&quot;: null,&#10;                    &quot;wechatAppInfo&quot;: null,&#10;                    &quot;validateType&quot;: null,&#10;                    &quot;refundAmount&quot;: null,&#10;                    &quot;amount&quot;: 11920.00,&#10;                    &quot;actualAmount&quot;: null,&#10;                    &quot;fee&quot;: null,&#10;                    &quot;systemFee&quot;: null,&#10;                    &quot;channelFee&quot;: null,&#10;                    &quot;systemFeeStatus&quot;: &quot;0&quot;,&#10;                    &quot;refundWhereabouts&quot;: null,&#10;                    &quot;acct&quot;: null,&#10;                    &quot;acctType&quot;: null,&#10;                    &quot;termno&quot;: null,&#10;                    &quot;cusid&quot;: null,&#10;                    &quot;traceno&quot;: null,&#10;                    &quot;payInterfaceOutTradeNo&quot;: null,&#10;                    &quot;chnltrxid&quot;: null,&#10;                    &quot;orderExpireDatet&quot;: null,&#10;                    &quot;paymethod&quot;: &quot;17&quot;,&#10;                    &quot;notifyUrl&quot;: null,&#10;                    &quot;notifyType&quot;: 0,&#10;                    &quot;summary&quot;: null,&#10;                    &quot;extendInfo&quot;: null,&#10;                    &quot;payStatus&quot;: &quot;success&quot;,&#10;                    &quot;payFailMessage&quot;: null,&#10;                    &quot;orderType&quot;: 6,&#10;                    &quot;apendType&quot;: 1,&#10;                    &quot;payReqDataTime&quot;: &quot;20250107162037&quot;,&#10;                    &quot;payDataTime&quot;: &quot;20250107162040&quot;,&#10;                    &quot;payTaskTime&quot;: null,&#10;                    &quot;branch&quot;: null,&#10;                    &quot;bizBatchNo&quot;: &quot;1876544454454603776&quot;,&#10;                    &quot;batchPayList&quot;: null,&#10;                    &quot;transType&quot;: &quot;success&quot;,&#10;                    &quot;payInterfacetrxCode&quot;: null,&#10;                    &quot;payInfo&quot;: null,&#10;                    &quot;recieverList&quot;: null,&#10;                    &quot;splitRuleList&quot;: [&#10;          {&#10;            &quot;amount&quot;: 30000,&#10;            &quot;fee&quot;: 0,&#10;            &quot;bizUserId&quot;: &quot;1348381566&quot;,&#10;            &quot;splitRuleList&quot;: [&#10;              {&quot; amount&quot;: 10000, &quot;fee&quot;: 0,&quot; bizUserId&quot;: &quot;1348381567&quot; },&#10;              { &quot;amount&quot;: 20000,&quot; fee&quot;: 0,&quot; bizUserId&quot;: &quot;1348381568&quot; }&#10;            ]&#10;          },&#10;          {&#10;            &quot;amount&quot;: 990000,&#10;            &quot;fee&quot;: 0,&#10;            &quot;bizUserId&quot;: &quot;1343353610&quot;&#10;          },&#10;          {&#10;            amount: 172000,&#10;            fee: 0,&#10;            bizUserId: &quot;1346483031&quot;,&#10;            splitRuleList: [&#10;              { amount: 50000, fee: 0, bizUserId: &quot;1346483032&quot; }&#10;            ]&#10;          }&#10;        ],,&#10;                    &quot;splitTFRuleList&quot;: null,&#10;                    &quot;payChannel&quot;: &quot;UnKnow&quot;,&#10;                    &quot;operator&quot;: &quot;18780781609&quot;,&#10;                    &quot;storeName&quot;: &quot;爱美蒂亚总部&quot;,&#10;                    &quot;payWhereabouts&quot;: 1,&#10;                    &quot;storeNo&quot;: &quot;000006&quot;,&#10;                    &quot;payerExId&quot;: null,&#10;                    &quot;recieverExId&quot;: null,&#10;                    &quot;oriMerOrderNo&quot;: &quot;1874689938242187264&quot;,&#10;                    &quot;subBizOrderNo&quot;: &quot;1876544454454600032&quot;,&#10;                    &quot;subMerOrderNo&quot;: null,&#10;                    &quot;subOriMerOrderNo&quot;: null,&#10;                    &quot;requestMessage&quot;: null,&#10;                    &quot;endTime&quot;: null,&#10;                    &quot;cardholderInformation&quot;: &quot;&quot;,&#10;                    &quot;cardholderName&quot;: &quot;&quot;,&#10;                    &quot;body&quot;: null,&#10;                    &quot;phone&quot;: null,&#10;                    &quot;labelInfos&quot;: null,&#10;                    &quot;bankNo&quot;: null,&#10;                    &quot;splitRuleInfoList&quot;: null,&#10;                    &quot;giveAmount&quot;: &quot;11920&quot;,&#10;                    &quot;receiveAmount&quot;: &quot;0.00&quot;,&#10;                    &quot;splitBizUserId&quot;: null,&#10;                    &quot;splitAmount&quot;: null,&#10;                    &quot;splitFee&quot;: null,&#10;                    &quot;immediatelyFee&quot;: null,&#10;                    &quot;remarks&quot;: null,&#10;                    &quot;splitRuleInfo&quot;: null,&#10;                    &quot;lable&quot;: &quot;&quot;,&#10;                    &quot;bankCardPro&quot;: null&#10;                }&#10;            ]，把list进行循环，将其中每一个对象的splitruleList递归拆分出来，并且将list中的对象其余属性加到拆分来的对象中" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="selectedCode" />
+                          <option name="drillDownEnable" value="false" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="selectedCode" />
+                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
+                          <option name="text" value="#selectedCode" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="endLine" value="470" />
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="endLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="fileName">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="filePath">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="selectedItemContent">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="startLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="$USER_HOME$/JavaFiles/IDEAPrograms/WorkSpace/TLprojects/tsy-admin/src/views/plat/platManage/trans/TransBach.vue#L470-L470" />
+                      <option name="name" value="$USER_HOME$/JavaFiles/IDEAPrograms/WorkSpace/TLprojects/tsy-admin/src/views/plat/platManage/trans/TransBach.vue#L470-L470" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="statLine" value="470" />
+                      <option name="text" value="TransBach.vue" />
+                      <option name="type" value="currentFile" />
+                    </ChatContextTag>
+                  </list>
+                </option>
+              </ChatRecentQuery>
             </list>
           </value>
         </entry>
