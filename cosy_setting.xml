@@ -2004,19 +2004,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="List&lt;Object&gt; rowlist = readAll.get(rowIndex);&#10;1列：结算入账ID 2列：门店ID 3列：门店名称 4列：账单日期 5列：结算金额 6列：结算日期&#10;在读取excel文件的时候，我想根据门店id和账单日期分组，每个门店id每天讲结算金额汇总，如果汇总金额小于等于0则将该门店该日期的所有数据清除&#10;" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="我想按每个门店每个日期进行金额汇总，如果汇总金额小于等于0的，将其删除" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -3004,6 +2991,19 @@
                       <option name="type" value="currentFile" />
                     </ChatContextTag>
                   </list>
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="linux zip一个文件" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
                 </option>
               </ChatRecentQuery>
             </list>
