@@ -2553,168 +2553,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="r2.getAmount()爆红" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list>
-                    <ChatContextTag>
-                      <option name="componentType" value="comboBox" />
-                      <option name="contextProvider">
-                        <SuggestPrompt>
-                          <option name="componentType" value="comboBox" />
-                          <option name="contextName" value="selectedCode" />
-                          <option name="drillDownEnable" value="false" />
-                          <option name="enabled" value="true" />
-                          <option name="extra">
-                            <map>
-                              <entry key="contextType">
-                                <value>
-                                  <Object />
-                                </value>
-                              </entry>
-                            </map>
-                          </option>
-                          <option name="hint" value="selectedCode" />
-                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
-                          <option name="text" value="#selectedCode" />
-                          <option name="type" value="context" />
-                        </SuggestPrompt>
-                      </option>
-                      <option name="endLine" value="743" />
-                      <option name="extra">
-                        <map>
-                          <entry key="contextType">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="endLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="fileName">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="filePath">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="selectedItemContent">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="startLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                        </map>
-                      </option>
-                      <option name="id" value="$USER_HOME$/JavaFiles/IDEAPrograms/WorkSpace/TLprojects/tsy_service/order-service/src/main/java/brand/order/service/handler/ReconciliationFileHandler.java#L743-L743" />
-                      <option name="name" value="$USER_HOME$/JavaFiles/IDEAPrograms/WorkSpace/TLprojects/tsy_service/order-service/src/main/java/brand/order/service/handler/ReconciliationFileHandler.java#L743-L743" />
-                      <option name="payload">
-                        <Object />
-                      </option>
-                      <option name="statLine" value="743" />
-                      <option name="text" value="ReconciliationFileHandler.java" />
-                      <option name="type" value="currentFile" />
-                    </ChatContextTag>
-                  </list>
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
-                      <option name="text" value="List&lt;ReconciliationDetail&gt; reconciliationDetailsByTimeGroup = new ArrayList&lt;&gt;();&#10;        reconciliationDetails.stream().collect(Collectors.groupingBy(reconciliationDetail -&gt; reconciliationDetail.getBillTime() + reconciliationDetail.getPlatformStoreNo())).&#10;                forEach((billTime,reconciliationDetailList) -&gt; {&#10;                    reconciliationDetailList.stream().reduce((r1,r2) -&gt; {&#10;                        r1.setAmount(r1.getAmount().add(r2.getAmount()));&#10;                        return r1;&#10;                    }).ifPresent(reconciliationDetailsByTimeGroup::add);&#10;                });&#10;" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list>
-                    <ChatContextTag>
-                      <option name="componentType" value="comboBox" />
-                      <option name="contextProvider">
-                        <SuggestPrompt>
-                          <option name="componentType" value="comboBox" />
-                          <option name="contextName" value="selectedCode" />
-                          <option name="drillDownEnable" value="false" />
-                          <option name="enabled" value="true" />
-                          <option name="extra">
-                            <map>
-                              <entry key="contextType">
-                                <value>
-                                  <Object />
-                                </value>
-                              </entry>
-                            </map>
-                          </option>
-                          <option name="hint" value="selectedCode" />
-                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
-                          <option name="text" value="#selectedCode" />
-                          <option name="type" value="context" />
-                        </SuggestPrompt>
-                      </option>
-                      <option name="endLine" value="744" />
-                      <option name="extra">
-                        <map>
-                          <entry key="contextType">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="endLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="fileName">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="filePath">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="selectedItemContent">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="startLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                        </map>
-                      </option>
-                      <option name="id" value="$USER_HOME$/JavaFiles/IDEAPrograms/WorkSpace/TLprojects/tsy_service/order-service/src/main/java/brand/order/service/handler/ReconciliationFileHandler.java#L737-L744" />
-                      <option name="name" value="$USER_HOME$/JavaFiles/IDEAPrograms/WorkSpace/TLprojects/tsy_service/order-service/src/main/java/brand/order/service/handler/ReconciliationFileHandler.java#L737-L744" />
-                      <option name="payload">
-                        <Object />
-                      </option>
-                      <option name="statLine" value="737" />
-                      <option name="text" value="ReconciliationFileHandler.java" />
-                      <option name="type" value="currentFile" />
-                    </ChatContextTag>
-                  </list>
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="只有amount" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -3472,6 +3310,144 @@
                       </option>
                       <option name="sourceType" value="system" />
                       <option name="text" value="HttpUtil.java" />
+                      <option name="type" value="currentFile" />
+                    </ChatContextTag>
+                  </list>
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="核心服务调用失败 feign.FeignException$InternalServerError: status 500 reading CoreServiceFeign#apply(MyBankReqApply) at&#10;" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="file" />
+                          <option name="drillDownEnable" value="true" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="file" />
+                          <option name="id" value="7a0c2792-b1ed-49ec-a82b-d97b16a242b4" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="#file" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="endLine" />
+                          <entry key="fileName">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="filePath">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="selectedItemContent" />
+                          <entry key="startLine" />
+                        </map>
+                      </option>
+                      <option name="id" value="$USER_HOME$/JavaFiles/IDEAPrograms/WorkSpace/TLprojects/tsy_service/core-service/src/main/java/com/core/service/impl/YZJServiceImpl.java" />
+                      <option name="name" value="$USER_HOME$/JavaFiles/IDEAPrograms/WorkSpace/TLprojects/tsy_service/core-service/src/main/java/com/core/service/impl/YZJServiceImpl.java" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="sourceType" value="system" />
+                      <option name="text" value="YZJServiceImpl.java" />
+                      <option name="type" value="currentFile" />
+                    </ChatContextTag>
+                  </list>
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="核心服务调用失败 feign.FeignException$InternalServerError: status 500 reading CoreServiceFeign#apply(MyBankReqApply) at feign.FeignException.errorStatus(FeignException.java:114) at feign.FeignException.errorStatus(FeignException.java:86) at feign.codec.ErrorDecoder$Default.decode(ErrorDecoder.java:93) at feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:149)&#10;" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="file" />
+                          <option name="drillDownEnable" value="true" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="file" />
+                          <option name="id" value="7a0c2792-b1ed-49ec-a82b-d97b16a242b4" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="#file" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="endLine" />
+                          <entry key="fileName">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="filePath">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="selectedItemContent" />
+                          <entry key="startLine" />
+                        </map>
+                      </option>
+                      <option name="id" value="$USER_HOME$/JavaFiles/IDEAPrograms/WorkSpace/TLprojects/tsy_service/order-service/src/main/java/com/order/feign/CoreServiceFeign.java" />
+                      <option name="name" value="$USER_HOME$/JavaFiles/IDEAPrograms/WorkSpace/TLprojects/tsy_service/order-service/src/main/java/com/order/feign/CoreServiceFeign.java" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="sourceType" value="system" />
+                      <option name="text" value="CoreServiceFeign.java" />
                       <option name="type" value="currentFile" />
                     </ChatContextTag>
                   </list>
