@@ -2553,87 +2553,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="我想把报错换成将汇总金额小于0对应的门店当日的记录删除" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list>
-                    <ChatContextTag>
-                      <option name="componentType" value="comboBox" />
-                      <option name="contextProvider">
-                        <SuggestPrompt>
-                          <option name="componentType" value="comboBox" />
-                          <option name="contextName" value="selectedCode" />
-                          <option name="drillDownEnable" value="false" />
-                          <option name="enabled" value="true" />
-                          <option name="extra">
-                            <map>
-                              <entry key="contextType">
-                                <value>
-                                  <Object />
-                                </value>
-                              </entry>
-                            </map>
-                          </option>
-                          <option name="hint" value="selectedCode" />
-                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
-                          <option name="text" value="#selectedCode" />
-                          <option name="type" value="context" />
-                        </SuggestPrompt>
-                      </option>
-                      <option name="endLine" value="751" />
-                      <option name="extra">
-                        <map>
-                          <entry key="contextType">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="endLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="fileName">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="filePath">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="selectedItemContent">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="startLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                        </map>
-                      </option>
-                      <option name="id" value="$USER_HOME$/JavaFiles/IDEAPrograms/WorkSpace/TLprojects/tsy_service/order-service/src/main/java/brand/order/service/handler/ReconciliationFileHandler.java#L734-L751" />
-                      <option name="name" value="$USER_HOME$/JavaFiles/IDEAPrograms/WorkSpace/TLprojects/tsy_service/order-service/src/main/java/brand/order/service/handler/ReconciliationFileHandler.java#L734-L751" />
-                      <option name="payload">
-                        <Object />
-                      </option>
-                      <option name="statLine" value="734" />
-                      <option name="text" value="ReconciliationFileHandler.java" />
-                      <option name="type" value="currentFile" />
-                    </ChatContextTag>
-                  </list>
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="List&lt;ReconciliationDetail&gt; reconciliationDetailsByTimeGroup = new ArrayList&lt;&gt;();&#10;        reconciliationDetails.stream().collect(Collectors.groupingBy(reconciliationDetail -&gt; reconciliationDetail.getBillTime() + reconciliationDetail.getPlatformStoreNo())).&#10;                forEach((billTime,reconciliationDetailList) -&gt; {&#10;                    reconciliationDetailList.stream().reduce((r1,r2) -&gt; {&#10;                        r1.setAmount(r1.getAmount().add(r2.getAmount()));&#10;                        return r1;&#10;                    }).ifPresent(reconciliationDetailsByTimeGroup::add);&#10;                });&#10;        boolean error = reconciliationDetailsByTimeGroup.stream().anyMatch(r -&gt; new BigDecimal(0).compareTo(r.getAmount()) &gt;= 0);&#10;        if (error) {&#10;            throw new RuntimeException(&quot;解析失败：存在日金额汇总小于等于0的订单！&quot;);&#10;        }  &#10;" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -3485,6 +3404,89 @@
                 </option>
                 <option name="contextTags">
                   <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="解码之前的请求参数为：&quot;eyJvcmRlclR5cGUiOiIwMSIsIm9yZGVyTm8iOiIyMDI1MDI3ODA0NDYxNzE1NjUiLCJvdXRUcmFkZU5vIjoiMTg4NjY2ODM4NjY2NTc3MTAwOFRlciIsIm9wZXJhdGVObyI6IjIwMjUwMjA0MTAxNTIwNjE2NTYxNjU3ODAwNDIyMDQ4MTIiLCJ0b3RhbEFtb3VudCI6MTE3NSwiZnJlZXplQW1vdW50IjoxMTc1LCJhdmFpbGFibGVBbW91bnQiOjAsImN1cnJlbmN5IjoiMTU2Iiwic3RhdHVzIjoiU1VDQ0VTUyIsImZpbmlzaERhdGUiOiIyMDI1MDIwNDE0NDkzMSIsImVycm9yQ29kZSI6IiIsImVycm9yRGVzYyI6IiIsImV4dEluZm8iOiIiLCJzaWduIjoiRVo0UmsyK0UxU1FFR1UxOXN3a01IcXEvaDl2ODJjcG9rWW1GN2ZFMjBPQnBKeXo0aFRGN3pEcW8vd2JIUk1IcWRsVFhUOEdHeTMxRm1hUkh6MzA4a0JFbUE5UFR5QnFXK2xrUkM1SVJ3c3dFZzlZbTlyZDJxR3RmdG9Takp4WWl1RWN5R0h0VmprY3VVZGxsazFkRXB4L0xYdTBiUGtqM0FReGhNR2RjQUZoZmtJMU84QkN6aTIxaDJ2cE8zbGswNGJtd0NNN0ZOc3NKQTM0VlRNam5HSVRVRVVlcDV5V0tYR2pMczVxc1NKNUlnWVJEU0RIMDdZUEp6aFplWXBsL0E5VndoNlJDNFpCTnRSSiswek5NeVR0ZnF3UXlwRlRWcTZLakFhdHpxcUxidCtjQ1Q5Q1NlRVdrS1BvTStrT3RwcUtTZ3NrdGVLNWpBcW1CaUVLR0pnPT0iLCJzaWduVHlwZSI6IlJzYVdpdGhTaGEyNTYifQ==&quot;  该怎么请求参数" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="selectedCode" />
+                          <option name="drillDownEnable" value="false" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="selectedCode" />
+                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="#selectedCode" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="endLine" value="92" />
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="endLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="fileName">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="filePath">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="selectedItemContent">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="startLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="$USER_HOME$/JavaFiles/IDEAPrograms/WorkSpace/TLprojects/tsy_service/order-service/src/main/java/brand/order/controller/MyBankController.java#L90-L92" />
+                      <option name="name" value="$USER_HOME$/JavaFiles/IDEAPrograms/WorkSpace/TLprojects/tsy_service/order-service/src/main/java/brand/order/controller/MyBankController.java#L90-L92" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="sourceType" value="system" />
+                      <option name="statLine" value="90" />
+                      <option name="text" value="MyBankController.java" />
+                      <option name="type" value="currentFile" />
+                    </ChatContextTag>
+                  </list>
                 </option>
               </ChatRecentQuery>
             </list>
