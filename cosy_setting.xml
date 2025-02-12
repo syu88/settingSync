@@ -581,19 +581,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="java.lang.ClassCastException: com.alibaba.fastjson.JSONObject cannot be cast to com.allinpaysc.tqpay.core.entity.ProductSpecifications&#10;" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="参数有误[转换异常]&#10;" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -1559,6 +1546,19 @@
                   <list>
                     <ChatInputElement>
                       <option name="text" value="children默认不展开&#10;" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="阿里云短信模板“尊敬的达州邮政会员，您本次新增${num}积分，总的积分为${totalNum}。请尽快到“达州邮政”公众号-邮政会员-商户专属-“来领券啦””审核失败，怎么修改&#10;" />
                       <option name="type" value="text" />
                     </ChatInputElement>
                   </list>
