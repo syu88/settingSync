@@ -1,8 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../ylh-business/ylh-business-payment/src/main/java/com/allinpaysc/payment/business/domain/YlhOssFile.java [ylh-business-payment]'" />
-    <option name="defaultScopeName" value="File '.../ylh-business/ylh-business-payment/src/main/java/com/allinpaysc/payment/business/domain/YlhOssFile.java [ylh-business-payment]'" />
-    <option name="SEARCH_SCOPE" value="File '.../ylh-business/ylh-business-payment/src/main/java/com/allinpaysc/payment/business/domain/YlhOssFile.java [ylh-business-payment]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>.java</mask>
     <mask>*.pr</mask>
     <mask>*.jsp</mask>
