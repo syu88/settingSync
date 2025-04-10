@@ -3907,19 +3907,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="[&quot;ALI_JSAPI&quot;, &quot;WX_JSAPI&quot;]转为集合" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="[&quot;ALI_JSAPI&quot;, &quot;WX_JSAPI&quot;]字符串转为集合" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -5205,6 +5192,19 @@
                   <list>
                     <ChatInputElement>
                       <option name="text" value="导出excel合成单元格" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="导出的明细数据每一条中都会有一个字段对应的多条分账数据，怎么在excel中展示" />
                       <option name="type" value="text" />
                     </ChatInputElement>
                   </list>
