@@ -38,6 +38,25 @@
     </option>
     <option name="recentComplexQueries">
       <map>
+        <entry key="42a1a7124fc9a58c4327b59b249fdce6|1541494969064604">
+          <value>
+            <list>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="商户订单号&#9;outTranNo&#9;String&#10;转出账户账号&#9;deAcctNo&#9;String&#10;转出账户名称&#9;deAcctName&#9;String&#10;转入账户账号&#9;crAcctNo&#9;String&#10;转入账户名称&#9;crAcctName&#9;String&#10;转入账户开户行联行号&#9;crAcctBankNo&#9;String&#10;交易金额&#9;transAmt&#9;Double&#10;支付结果&#9;retCode&#9;String&#10;支付结果描述&#9;retMsg&#9;String&#10;银行记账日期&#9;bankAcctDate&#9;String&#10;银行记账流水&#9;bankAcctSeq&#9;String&#10;是否退汇&#9;IsRev&#9;String&#10;退汇入账日期&#9;revAcctNate&#9;String&#10;退汇入账流水&#9;revAcctSeq&#9;String &#9;&#9;&#9;生成实体类" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+            </list>
+          </value>
+        </entry>
         <entry key="business|1541494969064604">
           <value>
             <list>
