@@ -4035,32 +4035,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="导出excel合成单元格" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
-                      <option name="text" value="导出的明细数据每一条中都会有一个字段对应的多条分账数据，怎么在excel中展示" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="前三列数据可能会一对多后四列数据，怎么进行合并展示" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -4910,6 +4884,32 @@
                   <list>
                     <ChatInputElement>
                       <option name="text" value="竖向分割线" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="将20250425164703转为yyyy-mm-dd hh:mm:ss的格式" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="java将20250425164703转为yyyy-mm-dd hh:mm:ss的格式" />
                       <option name="type" value="text" />
                     </ChatInputElement>
                   </list>
