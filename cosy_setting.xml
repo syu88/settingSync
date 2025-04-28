@@ -163,6 +163,87 @@
                   <list />
                 </option>
               </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="识别途中文字" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="image" />
+                          <option name="drillDownEnable" value="false" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="image" />
+                          <option name="id" value="82cea131-ecaa-44be-bf2d-7dcce2149d9c" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="#image" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="filePath">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="fileType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="imgUrl">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="$USER_HOME$/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/4409af184c2296a8e832bad83e2c290d/Message/MessageTemp/1796ea0e89e7fc0781bd49fd659a70eb/Image/3001745809970_.pic.jpg" />
+                      <option name="loading">
+                        <AtomicReference>
+                          <option name="opaque">
+                            <Object />
+                          </option>
+                          <option name="plain">
+                            <Object />
+                          </option>
+                        </AtomicReference>
+                      </option>
+                      <option name="name" value="3001745809970_.pic.jpg" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="text" value="3001745809970_.pic.jpg" />
+                      <option name="type" value="image" />
+                      <option name="valid" value="true" />
+                    </ChatContextTag>
+                  </list>
+                </option>
+              </ChatRecentQuery>
             </list>
           </value>
         </entry>
