@@ -4172,19 +4172,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="如何设置列宽度" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="el-calendar 怎么在选中日期的时候触发点击事件" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -5322,6 +5309,19 @@
                   <list>
                     <ChatInputElement>
                       <option name="text" value="字体加粗" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="展示图片" />
                       <option name="type" value="text" />
                     </ChatInputElement>
                   </list>
