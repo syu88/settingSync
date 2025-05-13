@@ -4172,170 +4172,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="&lt;dict-tag :options=&quot;depositOrderStateOption&quot; :value=&quot;orderDetail.state&quot;/&gt;不显示" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list>
-                    <ChatContextTag>
-                      <option name="componentType" value="comboBox" />
-                      <option name="contextProvider">
-                        <SuggestPrompt>
-                          <option name="componentType" value="comboBox" />
-                          <option name="contextName" value="selectedCode" />
-                          <option name="drillDownEnable" value="false" />
-                          <option name="enabled" value="true" />
-                          <option name="extra">
-                            <map>
-                              <entry key="contextType">
-                                <value>
-                                  <Object />
-                                </value>
-                              </entry>
-                            </map>
-                          </option>
-                          <option name="hint" value="selectedCode" />
-                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
-                          <option name="sourceType" value="system" />
-                          <option name="text" value="#selectedCode" />
-                          <option name="type" value="context" />
-                        </SuggestPrompt>
-                      </option>
-                      <option name="endLine" value="204" />
-                      <option name="extra">
-                        <map>
-                          <entry key="contextType">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="endLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="fileName">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="filePath">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="selectedItemContent">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="startLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                        </map>
-                      </option>
-                      <option name="id" value="$USER_HOME$/JavaFiles/IDEAPrograms/WorkSpace/TLprojects/ylh-all/ylh-ui/src/views/order/depositOrderManager/index.vue#L204-L204" />
-                      <option name="name" value="$USER_HOME$/JavaFiles/IDEAPrograms/WorkSpace/TLprojects/ylh-all/ylh-ui/src/views/order/depositOrderManager/index.vue#L204-L204" />
-                      <option name="payload">
-                        <Object />
-                      </option>
-                      <option name="sourceType" value="system" />
-                      <option name="statLine" value="204" />
-                      <option name="text" value="index.vue" />
-                      <option name="type" value="currentFile" />
-                    </ChatContextTag>
-                  </list>
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
-                      <option name="text" value="生成前端样式" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list>
-                    <ChatContextTag>
-                      <option name="componentType" value="comboBox" />
-                      <option name="contextProvider">
-                        <SuggestPrompt>
-                          <option name="componentType" value="comboBox" />
-                          <option name="contextName" value="image" />
-                          <option name="drillDownEnable" value="false" />
-                          <option name="enabled" value="true" />
-                          <option name="extra">
-                            <map>
-                              <entry key="contextType">
-                                <value>
-                                  <Object />
-                                </value>
-                              </entry>
-                            </map>
-                          </option>
-                          <option name="hint" value="image" />
-                          <option name="id" value="82cea131-ecaa-44be-bf2d-7dcce2149d9c" />
-                          <option name="sourceType" value="system" />
-                          <option name="text" value="#image" />
-                          <option name="type" value="context" />
-                        </SuggestPrompt>
-                      </option>
-                      <option name="extra">
-                        <map>
-                          <entry key="contextType">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="filePath">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="fileType">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="imgUrl">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                        </map>
-                      </option>
-                      <option name="id" value="$USER_HOME$/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/4409af184c2296a8e832bad83e2c290d/Message/MessageTemp/fd3ff1f5147ab09677c4d2f4210da11a/Image/149051745824307_.pic.jpg" />
-                      <option name="loading">
-                        <AtomicReference>
-                          <option name="opaque">
-                            <Object />
-                          </option>
-                          <option name="plain">
-                            <Object />
-                          </option>
-                        </AtomicReference>
-                      </option>
-                      <option name="name" value="149051745824307_.pic.jpg" />
-                      <option name="payload">
-                        <Object />
-                      </option>
-                      <option name="text" value="149051745824307_.pic.jpg" />
-                      <option name="type" value="image" />
-                      <option name="valid" value="true" />
-                    </ChatContextTag>
-                  </list>
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="在当前页面模拟生成页面" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -5381,6 +5217,32 @@
                   <list>
                     <ChatInputElement>
                       <option name="text" value="Error response from daemon: Get &quot;https://registry-1.docker.io/v2/&quot;: net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)&#10;" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="rabbitmq生成了队列 但是没有 是不是需要装插件&#10;" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="docker中rabbitmq怎么打开管理插件" />
                       <option name="type" value="text" />
                     </ChatInputElement>
                   </list>
