@@ -4475,19 +4475,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="获取当前是星期几" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="字体加粗" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -5339,6 +5326,19 @@
                   <list>
                     <ChatInputElement>
                       <option name="text" value="Shutdown Signal: channel error; protocol method: #method&lt;channel.close&gt;(reply-code=406, reply-text=PRECONDITION_FAILED - unknown exchange type 'x-delayed-message', class-id=40, method-id=10)&#10;" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="851001: RSAVerifyHash failure with exception: unknown block type&#10;" />
                       <option name="type" value="text" />
                     </ChatInputElement>
                   </list>
