@@ -3437,19 +3437,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="接口转发" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="yyyymmddhhmmss格式的数据，mysql怎么转换为yyy:mm:dd hh:mm:ss的数据" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -4389,6 +4376,19 @@
                   <list>
                     <ChatInputElement>
                       <option name="text" value="从服务器上下载压缩包，但是压缩包很大，怎么快速下载" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="mac怎么删除文件夹，但是保留文件夹中的文件在当前目录&#10;" />
                       <option name="type" value="text" />
                     </ChatInputElement>
                   </list>
