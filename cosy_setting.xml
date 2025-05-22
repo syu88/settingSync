@@ -4948,6 +4948,25 @@
             </list>
           </value>
         </entry>
+        <entry key="tsy|1541494969064604|AiAssistantAgent">
+          <value>
+            <list>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="@OriginalDataSource &#10; " />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+            </list>
+          </value>
+        </entry>
         <entry key="ylh|1541494969064604">
           <value>
             <list>
