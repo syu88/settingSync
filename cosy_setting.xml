@@ -6212,6 +6212,25 @@
             </list>
           </value>
         </entry>
+        <entry key="ypp_admin|1541494969064604|AiAssistantAgent">
+          <value>
+            <list>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="怎么让h2和i不提行" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+            </list>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="recentQueries">
