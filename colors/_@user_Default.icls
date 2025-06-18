@@ -3,12 +3,33 @@
     <property name="created">2020-11-22T17:26:38</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.2.2.0.0</property>
-    <property name="modified">2020-11-22T17:28:37</property>
+    <property name="modified">2025-06-18T10:06:03</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <attributes>
+    <option name="DEFAULT_DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="JAVA_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="JAVA_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="TEXT">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="ffffff" />
+      </value>
     </option>
   </attributes>
 </scheme>
