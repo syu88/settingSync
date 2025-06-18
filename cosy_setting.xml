@@ -6904,6 +6904,25 @@
             </list>
           </value>
         </entry>
+        <entry key="ylh|1541494969064604|AiAssistantAgent">
+          <value>
+            <list>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="java.lang.IllegalArgumentException: Name for argument of type [java.lang.Long] not specified, and parameter name information not found in class file either&#10;" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+            </list>
+          </value>
+        </entry>
         <entry key="ypp_admin|1541494969064604|AiAssistantAgent">
           <value>
             <list>
