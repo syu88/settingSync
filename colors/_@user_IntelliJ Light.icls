@@ -3,7 +3,7 @@
     <property name="created">2020-09-16T16:03:46</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.2.2.0.0</property>
-    <property name="modified">2020-09-22T15:06:24</property>
+    <property name="modified">2025-06-18T10:17:24</property>
     <property name="originalScheme">IntelliJ Light</property>
   </metaInfo>
   <colors>
@@ -274,13 +274,13 @@
     <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="JAVA_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="9114c2" />
+        <option name="FOREGROUND" value="797985" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="JAVA_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="9114c2" />
+        <option name="FOREGROUND" value="797985" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
