@@ -2,12 +2,12 @@
   <component name="CosySettings">
     <option name="chatModelSelected">
       <map>
-        <entry key="$USER_HOME$/Desktop/中信/居间接入demo/EMSSDemo-chat" value="default" />
+        <entry key="$USER_HOME$/Desktop/中信/居间接入demo/EMSSDemo-chat" value="dashscope_qwen3_coder_default" />
         <entry key="$USER_HOME$/JavaFiles/IDEAPrograms/StudySpace/Demo1-chat" value="default" />
         <entry key="$USER_HOME$/JavaFiles/IDEAPrograms/WorkSpace/TLprojects/business-chat" value="default" />
         <entry key="$USER_HOME$/JavaFiles/IDEAPrograms/WorkSpace/TLprojects/tsy-admin-chat" value="default" />
-        <entry key="$USER_HOME$/JavaFiles/IDEAPrograms/WorkSpace/TLprojects/tsy_service-chat" value="default" />
-        <entry key="$USER_HOME$/JavaFiles/IDEAPrograms/WorkSpace/TLprojects/ylh-all-chat" value="default" />
+        <entry key="$USER_HOME$/JavaFiles/IDEAPrograms/WorkSpace/TLprojects/tsy_service-chat" value="dashscope_qwen3_coder_default" />
+        <entry key="$USER_HOME$/JavaFiles/IDEAPrograms/WorkSpace/TLprojects/ylh-all-chat" value="dashscope_qwen3_coder_default" />
         <entry key="$USER_HOME$/JavaFiles/IDEAPrograms/WorkSpace/TLprojects/ypp_admin-chat" value="default" />
         <entry key="chat" value="default" />
         <entry key="developer" value="default" />
